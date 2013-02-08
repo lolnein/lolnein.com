@@ -1,4 +1,5 @@
 ---
+language: en-GB-oed
 ---
 
 <!DOCTYPE html>
@@ -17,8 +18,27 @@
 		<link rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/" type="text/html"/>
 
 		<link rel="stylesheet" href="/style.css" type="text/css"/>
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic" type="text/css"/>
 	</head>
 	<body>
-{{{ content }}}
+		<div id="wrap">
+			<div id="nav">
+				<object class="logo" type="image/svg+xml" data="/lolnein.svg">
+					<img class="logo" src="/lolnein.png" alt="lolnein"/>
+				</object>
+
+				<div class="navelm"><a href="/about/">About</a></div>
+				<div class="navelm"><a href="/archive/">Archive</a></div>
+				<div class="navelm"><a href="/shop/">Shop</a></div>
+				<div class="navelm"><a href="/contact/">Contact</a></div>
+			</div>
+
+			<div id="main">
+{{ content }}
+			</div>
+
+			<div id="ext">
+			</div>
+		</div>
 	</body>
 </html>

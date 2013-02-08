@@ -1,0 +1,100 @@
+@font-face {
+	font-family: lolfont;
+	font-style: normal;
+	font-weight: 400;
+	src: local('lolfont'), url('/lolfont.ttf') format('truetype')
+}
+
+* {
+	color: inherit;
+	text-decoration: inherit;
+
+	padding: 0;
+	margin: 0;
+	margin-collapse: collapse;
+}
+
+html {
+	color: black;
+	background: white;
+
+	font: 400 10pt Lato, sans-serif;
+	font-variant-numeric: oldstyle-nums proportional-nums diagonal-fractions;
+	line-height: 1.25em;
+
+	padding-bottom: 15mm;
+}
+
+#wrap {
+	margin: 37.5mm auto 0;
+	width: 250mm;
+}
+
+#nav {
+	width: 37.5mm;
+	float: left;
+
+	font: 400 32pt lolfont;
+}
+
+#nav object {
+	margin-bottom: 16pt;
+}
+
+.navelm {
+	color: #b3b4b6;
+	border-right: 8pt solid #5e5e60;
+
+	text-align: right;
+	text-transform: lowercase;
+
+	padding-top: 4pt;
+	padding-right: 10pt;
+	margin: 4pt 0;
+}
+
+.navelm a:hover {
+	color: #5e5e60;
+}
+
+#main {
+	background: white;
+	margin: 0 5mm;
+
+	width: 157.5mm;
+	float: left;
+
+	min-height: 100%;
+}
+
+.center {
+	display: block;
+	margin: 5mm auto;
+	width: 150mm;
+}
+
+#ext {
+	background: #5e5e60;
+	width: 37.5mm;
+	float: right;
+	min-height: 90mm;
+}
+
+.arrow {
+	height: 40pt;
+}
+
+#box {
+	color: white;
+	background: #5e5e60;
+	padding: 4pt;
+}
+
+.title {
+	font: 400 24pt lolfont;
+	text-transform: lowercase;
+}
+
+#disqus_thread {
+	margin-top: 37.5mm;
+}

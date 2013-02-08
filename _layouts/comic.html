@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="center">
+{% if page.previous %}	<a href="{{ page.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
+{% if page.next %}	<a href="{{ page.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
+</div>
+
+<img class="center" src="/comics/{{ page.comic }}.png"/>
+
+<div class="center" id="box">
+	<div class="title">{{ page.title }}</div>
+	{{ page.content }}
+</div>
+
+<div class="center">
+{% if page.previous %}	<a href="{{ page.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
+{% if page.next %}	<a href="{{ page.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
+</div>
+
+<div id="disqus_thread" class="center"></div>
+<script type="text/javascript">
+	var disqus_shortname = 'lolnein';
+	(function() {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
