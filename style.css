@@ -42,7 +42,6 @@ body {
 }
 
 .navelm {
-	color: #999999;
 	border-right: 8pt solid #333333;
 
 	text-align: right;
@@ -53,7 +52,11 @@ body {
 	margin: 4pt 0;
 }
 
-.navelm a:hover {
+a:link {
+	color: #999999;
+}
+
+a:hover {
 	color: #333333;
 }
 
