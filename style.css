@@ -61,6 +61,8 @@ a:hover, a:active {
 }
 
 #main {
+	text-align: justify;
+
 	background: white;
 	margin: 0 5mm;
 
