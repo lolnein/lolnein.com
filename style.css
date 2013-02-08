@@ -91,14 +91,23 @@ a:hover, a:active {
 }
 
 #box {
+	position: absolute;
 	color: white;
 	background: #333333;
 	padding: 4pt;
+	min-height: 10mm;
 }
 
 .title {
 	font: 400 24pt lolfont;
 	text-transform: lowercase;
+	border-bottom: 1px solid white;
+}
+
+.date {
+	position: absolute;
+	top: 4pt;
+	right: 4pt;
 }
 
 #disqus_thread {
@@ -113,4 +122,5 @@ h1 {
 	font: 400 32pt lolfont;
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
+	margin-bottom: 0.3125em;
 }
