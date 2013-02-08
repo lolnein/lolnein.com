@@ -1,4 +1,5 @@
 ---
 layout: comic
 comic: lolnein
+title: lolnein
 ---
