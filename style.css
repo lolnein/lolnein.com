@@ -15,7 +15,7 @@
 }
 
 html {
-	color: black;
+	color: #333;
 	background: white;
 
 	font: 400 11pt Lato, sans-serif;
@@ -104,6 +104,12 @@ a:hover, a:active {
 	margin-top: 37.5mm;
 }
 
-p {
+p, table {
 	margin-top: 0.625em;
+}
+
+h1 {
+	font: 400 32pt lolfont;
+	text-transform: lowercase;
+	border-bottom: 1px solid #333;
 }
