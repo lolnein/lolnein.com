@@ -52,11 +52,11 @@ body {
 	margin: 4pt 0;
 }
 
-a:link {
+a:link, a:visited {
 	color: #999999;
 }
 
-a:hover {
+a:hover, a:active {
 	color: #333333;
 }
 
