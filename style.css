@@ -79,7 +79,7 @@ a:hover, a:active {
 #ext {
 	background: #333333;
 	width: 37.5mm;
-	float: right;
+	float: left;
 	min-height: 90mm;
 }
 
