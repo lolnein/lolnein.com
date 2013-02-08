@@ -1,0 +1,4 @@
+---
+layout: comic
+comic: lolnein
+---
