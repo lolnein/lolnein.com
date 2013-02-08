@@ -42,8 +42,8 @@ html {
 }
 
 .navelm {
-	color: #b3b4b6;
-	border-right: 8pt solid #5e5e60;
+	color: #999999;
+	border-right: 8pt solid #333333;
 
 	text-align: right;
 	text-transform: lowercase;
@@ -54,7 +54,7 @@ html {
 }
 
 .navelm a:hover {
-	color: #5e5e60;
+	color: #333333;
 }
 
 #main {
@@ -74,7 +74,7 @@ html {
 }
 
 #ext {
-	background: #5e5e60;
+	background: #333333;
 	width: 37.5mm;
 	float: right;
 	min-height: 90mm;
@@ -86,7 +86,7 @@ html {
 
 #box {
 	color: white;
-	background: #5e5e60;
+	background: #333333;
 	padding: 4pt;
 }
 
