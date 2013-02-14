@@ -91,7 +91,7 @@ a:hover, a:active {
 }
 
 .box {
-	position: absolute;
+	position: relative;
 	color: white;
 	background: #333333;
 	padding: 4pt;
