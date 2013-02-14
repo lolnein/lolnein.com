@@ -5,8 +5,8 @@ language: en-GB-oed
 ---
 
 <div class="center">
-{% if site.posts.first.previous %}	<a href="{{ site.posts.first.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
-{% if site.posts.first.next %}	<a href="{{ site.posts.first.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
+	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
 <img class="center" src="/comics/{{ site.posts.first.comic }}.png"/>
@@ -23,8 +23,8 @@ language: en-GB-oed
 </div>
 
 <div class="center">
-{% if site.posts.first.previous %}	<a href="{{ site.posts.first.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
-{% if site.posts.first.next %}	<a href="{{ site.posts.first.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
+	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
 <div id="disqus_thread" class="center"></div>
