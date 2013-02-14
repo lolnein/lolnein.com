@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: lolboro
+title: lolboro
+---
+
+Oh, those texts are supposed to *keep* me from smoking?
