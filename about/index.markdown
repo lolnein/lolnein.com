@@ -5,7 +5,7 @@ title: About
 
 # lolnein
 
-‘lolnein’ is a neologism composed of the acronym ‘lol’ (laughing out loud) and the German interjection ‘nein’ (which translates as ‘no’) negating a question that the user finds to be totally absurd or ridiculous.
+â€˜lolneinâ€™ is a neologism composed of the acronym â€˜lollâ€™ (laughing out loud) and the German interjection â€˜neinâ€™ (which translates as â€˜noâ€™) negating a question that the user finds to be totally absurd or ridiculous.
 
 # Me
 
