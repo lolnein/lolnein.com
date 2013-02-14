@@ -90,7 +90,7 @@ a:hover, a:active {
 	height: 40pt;
 }
 
-#box {
+.box {
 	position: absolute;
 	color: white;
 	background: #333333;
