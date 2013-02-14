@@ -1,5 +1,5 @@
 ---
 layout: comic
 comic: longcable
-title: long cable
+title: Long Cable
 ---

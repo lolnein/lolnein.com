@@ -1,5 +1,5 @@
 ---
 layout: comic
 comic: timestopped
-title: time stopped
+title: Time Stopped
 ---
