@@ -5,32 +5,32 @@ language: en-GB-oed
 ---
 
 <div class="center">
-{% if site.posts.last.previous %}	<a href="{{ site.posts.last.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
-{% if site.posts.last.next %}	<a href="{{ site.posts.last.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
+{% if site.posts.first.previous %}	<a href="{{ site.posts.last.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
+{% if site.posts.first.next %}	<a href="{{ site.posts.last.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
 </div>
 
-<img class="center" src="/comics/{{ site.posts.last.comic }}.png"/>
+<img class="center" src="/comics/{{ site.posts.first.comic }}.png"/>
 
 <div class="center box">
-	<div class="title">{{ site.posts.last.title }}</div>
-	<div class="date">{{ site.posts.last.date | date_to_long_string }}</div>
-	{{ site.posts.last.content }}
+	<div class="title">{{ site.posts.first.title }}</div>
+	<div class="date">{{ site.posts.first.date | date_to_long_string }}</div>
+	{{ site.posts.first.content }}
 
 	<div class="social">
 		<a href="http://flattr.com/thing/1127625/lolnein" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this"/></a>
-		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://lolnein.com{{ site.posts.last.url }}/" data-count="none">Tweet</a><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://lolnein.com{{ site.posts.first.url }}/" data-count="none">Tweet</a><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	</div>
 </div>
 
 <div class="center">
-{% if site.posts.last.previous %}	<a href="{{ site.posts.last.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
-{% if site.posts.last.next %}	<a href="{{ site.posts.last.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
+{% if site.posts.first.previous %}	<a href="{{ site.posts.last.previous.id }}"><img class="arrow" src="/prev.svg" style="float: left" alt="Previous"/></a>{% endif %}
+{% if site.posts.first.next %}	<a href="{{ site.posts.last.next.id }}"><img class="arrow" src="/next.svg" style="float: right" alt="Next"/></a>{% endif %}
 </div>
 
 <div id="disqus_thread" class="center"></div>
 <script type="text/javascript">
 	var disqus_shortname = 'lolnein';
-	var disqus_identifier = '{{ site.posts.last.id }}';
+	var disqus_identifier = '{{ site.posts.first.id }}';
 	(function() {
 		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
 		dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
