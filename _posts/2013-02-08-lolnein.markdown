@@ -3,3 +3,5 @@ layout: comic
 comic: lolnein
 title: Lolnein
 ---
+
+What does [lolnein](http://lolnein.com/about/) mean?
