@@ -2,7 +2,7 @@
 	font-family: lolfont;
 	font-style: normal;
 	font-weight: 400;
-	src: local('lolfont'), url('/lolfont.ttf') format('truetype')
+	src: local('lolfont'), url('//lolnein.com/lolfont.ttf') format('truetype')
 }
 
 * {
