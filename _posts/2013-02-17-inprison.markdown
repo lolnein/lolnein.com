@@ -1,0 +1,5 @@
+---
+layout: comic
+comic: inprison
+title: In Prison
+---
