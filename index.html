@@ -8,6 +8,8 @@ language: en-GB-oed
 
 <div class="center">
 	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	<a href="{{ site.posts.last.id }}"><img class="arrow" src="/first.svg" style="float: left" alt="First"/></a>
+	<a href="{{ site.posts.first.id }}"><img class="arrow" src="/last.svg" style="float: right" alt="Last"/></a>
 	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
