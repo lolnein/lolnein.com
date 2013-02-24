@@ -128,3 +128,7 @@ h1 {
 .social {
 	margin-top: 1.25em;
 }
+
+.fb-like {
+	float: right;
+}
