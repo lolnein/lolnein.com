@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<div id="fb-root"></div>
+
 <div class="center">
 	{% if page.previous %}<a href="{{ page.previous.id }}"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
 	{% if page.next %}<a href="{{ page.next.id }}"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
@@ -25,6 +27,15 @@ layout: default
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		</script>
+
+		<div class="fb-like" data-send="false" data-layout="button_count" data-href="http://lolnein.com{{ page.url }}/" data-width="450" data-show-faces="false"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
 	</div>
 </div>
 
