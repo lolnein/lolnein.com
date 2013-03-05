@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: alpaca
+title: Alpaca
+---
+
+Thanks alpaca! That is really kind of you.
