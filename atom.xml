@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>lolnein</title>
 	<id>urn:uuid:27848db4-8dd3-4bc8-8e74-196fef152250</id>
-	<update>{{ site.time | date_to_xmlschema }}</updated>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
 
 	<author>
 		<name>Vincent Kunert</name>
