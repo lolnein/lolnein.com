@@ -4,4 +4,4 @@ comic: missingpunchline
 title: Missing Punchline
 ---
 
-I don't get it.
+I don&#8217;t get it.
