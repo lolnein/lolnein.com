@@ -32,7 +32,10 @@
 
 		<content type="xhtml">
 			<article xmlns="http://www.w3.org/1999/xhtml">
-				{{ post.content }}
+				<img src="http://lolnein.com/comics/{{ post.comic }}.png"/>
+				<p>
+					{{ post.content }}
+				</p>
 			</article>
 		</content>
 	</entry>{% endfor %}
