@@ -18,7 +18,7 @@
 	<icon>/lolnein.png</icon>
 
 	<link rel="self" href="http://lolnein.com/atom.xml"/>
-	<link rel="alternate" href="http://lolnein.com/">
+	<link rel="alternate" href="http://lolnein.com/"/>
 
 	<link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc-sa/3.0/rdf"/>
 	<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
