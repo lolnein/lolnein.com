@@ -4,4 +4,4 @@ comic: fuckcancer
 title: Fuck Cancer
 ---
 
-Seriously! Fuck 'em!
+Seriously! Fuck &#8217;em!
