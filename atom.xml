@@ -22,8 +22,8 @@
 
 	<link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc-sa/3.0/rdf"/>
 	<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
-
-{% for post in site.posts limit:256 %}	<entry xml:lang="en-GB-oed">
+{% for post in site.posts limit:256 %}
+	<entry xml:lang="en-GB-oed">
 		<title>{{ post.title | xml_escape }}</title>
 		<id>urn:x-lolnein:{{ post.id | xml_escape }}</id>
 		<link rel="alternate" href="http://lolnein.com{{ post.url }}/"/>
