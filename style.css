@@ -139,3 +139,7 @@ h2 {
 .fb-like {
 	float: right;
 }
+
+p {
+	margin-bottom: 1.25em;
+}
