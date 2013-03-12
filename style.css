@@ -118,11 +118,18 @@ p, table {
 	margin-top: 0.625em;
 }
 
-h1 {
-	font: 400 20pt lolfont;
+h1, h2, h3 {
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
 	margin-bottom: 0.3125em;
+}
+
+h1 {
+	font: 400 32pt lolfont;
+}
+
+h2 {
+	font: 400 24pt lolfont;
 }
 
 .social {
