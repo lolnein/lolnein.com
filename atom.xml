@@ -33,9 +33,7 @@
 		<content type="xhtml">
 			<article xmlns="http://www.w3.org/1999/xhtml">
 				<img src="http://lolnein.com/comics/{{ post.comic }}.png"/>
-				<p>
-					{{ post.content }}
-				</p>
+				{{ post.content }}
 			</article>
 		</content>
 	</entry>{% endfor %}
