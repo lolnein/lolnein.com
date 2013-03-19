@@ -3,5 +3,5 @@ layout: post
 title: Shop
 ---
 
-[EU](http://lolnein.spreadshirt.de/)  
-USA coming soon
+[EU Shop](http://lolnein.spreadshirt.de/)  
+[USA Shop](http://lolnein.spreadshirt.com/)
