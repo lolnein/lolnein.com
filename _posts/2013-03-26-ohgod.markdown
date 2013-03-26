@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: ohgod
+title: Oh God
+---
+
+The on-hold music is heavenly.
