@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: niceone
+title: Nice One
+---
+
+I love you.
