@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: addacat
+title: Add A Cat
+---
+
+More suggestions? Anyone?
