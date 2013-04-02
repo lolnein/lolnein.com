@@ -1,7 +1,5 @@
 ---
-layout: comic
-comic: bumblebeevideo
+layout: youtube
+video: http://www.youtube.com/embed/MmPqduirDs8
 title: Bumblebee
 ---
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/MmPqduirDs8" frameborder="0" allowfullscreen></iframe>
