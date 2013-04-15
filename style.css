@@ -79,8 +79,6 @@ a:hover, a:active {
 }
 
 #ext {
-	visibility: hidden;
-	background: #333333;
 	width: 37.5mm;
 	float: left;
 	min-height: 90mm;
