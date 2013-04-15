@@ -1,9 +1,8 @@
 @font-face {
-	font-family: 'Caviar Dreams'
+	font-family: lolfont;
 	font-style: normal;
-	font-weight: 700;
-
-	src: local('Caviar Dreams'), url('/Caviar_Dreams_Bold-webfont.eot') format('embedded-opentype'), url('/Caviar_Dreams_Bold-webfont.woff') format('woff'), url('/Caviar_Dreams_Bold-webfont.ttf') format('truetype'), url('/Caviar_Dreams_Bold-webfont.svg#CaviarDreamsBold') format('svg')
+	font-weight: 400;
+	src: local('lolfont'), url('/lolfont.ttf') format('truetype')
 }
 
 * {
@@ -35,7 +34,7 @@ body {
 	width: 37.5mm;
 	float: left;
 
-	font: 700 32pt 'Caviar Dreams';
+	font: 400 32pt lolfont;
 }
 
 #nav object {
@@ -96,7 +95,7 @@ a:hover, a:active {
 }
 
 .title {
-	font: 700 24pt 'Caviar Dreams';
+	font: 400 24pt lolfont;
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
 }
@@ -122,11 +121,11 @@ h1, h2, h3 {
 }
 
 h1 {
-	font: 700 32pt 'Caviar Dreams';
+	font: 400 32pt lolfont;
 }
 
 h2 {
-	font: 700 24pt 'Caviar Dreams';
+	font: 400 24pt lolfont;
 }
 
 .social {
