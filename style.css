@@ -1,3 +1,10 @@
+@font-face {
+	font-family: lolfont;
+	font-style: normal;
+	font-weight: 400;
+	src: local('lolfont'), url('/lolfont.ttf') format('truetype')
+}
+
 * {
 	color: inherit;
 	text-decoration: inherit;
@@ -27,7 +34,7 @@ body {
 	width: 37.5mm;
 	float: left;
 
-	font: 400 32pt 'Poiret One';
+	font: 400 32pt lolfont;
 }
 
 #nav object {
@@ -88,7 +95,7 @@ a:hover, a:active {
 }
 
 .title {
-	font: 400 24pt 'Poiret One';
+	font: 400 24pt lolfont;
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
 }
@@ -114,11 +121,11 @@ h1, h2, h3 {
 }
 
 h1 {
-	font: 400 32pt 'Poiret One';
+	font: 400 32pt lolfont;
 }
 
 h2 {
-	font: 400 24pt 'Poiret One';
+	font: 400 24pt lolfont;
 }
 
 .social {
