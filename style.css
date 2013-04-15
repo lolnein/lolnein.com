@@ -99,7 +99,7 @@ a:hover, a:active {
 .title {
 	font: 400 24pt lolfont;
 	text-transform: lowercase;
-	border-bottom: 1px solid white;
+	border-bottom: 1px solid #333;
 }
 
 .date {
