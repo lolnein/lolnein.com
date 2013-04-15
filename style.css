@@ -3,8 +3,7 @@
 	font-style: normal;
 	font-weight: 700;
 
-	src: url('/Caviar_Dreams_Bold-webfont.eot');
-	src: local('Caviar Dreams'), url('/Caviar_Dreams_Bold-webfont.eot?#iefix') format('embedded-opentype'), url('/Caviar_Dreams_Bold-webfont.woff') format('woff'), url('/Caviar_Dreams_Bold-webfont.ttf') format('truetype'), url('/Caviar_Dreams_Bold-webfont.svg#CaviarDreamsBold') format('svg');
+	src: local('Caviar Dreams'), url('/Caviar_Dreams_Bold-webfont.eot') format('embedded-opentype'), url('/Caviar_Dreams_Bold-webfont.woff') format('woff'), url('/Caviar_Dreams_Bold-webfont.ttf') format('truetype'), url('/Caviar_Dreams_Bold-webfont.svg#CaviarDreamsBold') format('svg')
 }
 
 * {
