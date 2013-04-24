@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: shaving
+title: Shaving
+---
+
+Stop it, skin. You'll get wrinkles.
