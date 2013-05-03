@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: friday
+title: Friday
+---
+
+You come back here right now!
