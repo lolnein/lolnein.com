@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: mishka
+title: Mishka
+---
+
+[I-uah-uah](http://youtu.be/qXo3NFqkaRM)
