@@ -23,7 +23,7 @@ language: en-GB-oed
 	{{ site.posts.first.content }}
 
 	<div class="social">
-		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.layout == 'youtube' %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ page.url }}/">Flattr</a>
+		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.video %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ page.url }}/">Flattr</a>
 		<script type="text/javascript">(function() {
 			var s = document.createElement('script');
 			var t = document.getElementsByTagName('script')[0];
