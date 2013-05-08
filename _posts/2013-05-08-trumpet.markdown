@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: trumpet
+title: Trumpet
+---
+
+The list of things I suck at grows constantly.
