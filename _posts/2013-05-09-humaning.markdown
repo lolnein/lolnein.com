@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: humaning
+title: Humaning
+---
+
+Oh those parallel universes.
