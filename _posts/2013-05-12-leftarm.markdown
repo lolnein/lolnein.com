@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: leftarm
+title: Left Arm
+---
+
+I have no idea what I'm doing.
