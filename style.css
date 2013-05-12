@@ -1,10 +1,3 @@
-@font-face {
-	font-family: lolfont;
-	font-style: normal;
-	font-weight: 400;
-	src: local('lolfont'), url('/lolfont.ttf') format('truetype')
-}
-
 * {
 	color: inherit;
 	text-decoration: inherit;
@@ -34,7 +27,7 @@ body {
 	width: 37.5mm;
 	float: left;
 
-	font: 400 32pt lolfont;
+	font-size: 32pt;
 }
 
 #nav object {
@@ -95,7 +88,8 @@ a:hover, a:active {
 }
 
 .title {
-	font: 400 24pt lolfont;
+	font-weight: 400;
+	font-size: 24pt;
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
 }
@@ -118,14 +112,15 @@ h1, h2, h3 {
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
 	margin-bottom: 0.3125em;
+	font-weight: 400;
 }
 
 h1 {
-	font: 400 32pt lolfont;
+	font-size: 32pt;
 }
 
 h2 {
-	font: 400 24pt lolfont;
+	font-size: 24pt;
 }
 
 .social {
