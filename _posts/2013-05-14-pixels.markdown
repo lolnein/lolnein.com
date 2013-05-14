@@ -1,0 +1,10 @@
+---
+layout: comic
+comic: pixels
+title: Pixels
+---
+
+This post is an entry for the German comic blog "schlogger".
+This month's topic was "Pixel".
+Other (mostly German) Cartoonists who participated:
+...
