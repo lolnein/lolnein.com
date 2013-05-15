@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: stopit
+title: Stop It
+---
+
+Wait until you see the crack-addicted eraser.
