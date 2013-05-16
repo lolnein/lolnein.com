@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: wakeup
+title: Wake Up
+---
+
+I'll cut you!
