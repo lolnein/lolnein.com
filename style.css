@@ -119,6 +119,7 @@ h1, h2, h3 {
 	text-transform: lowercase;
 	border-bottom: 1px solid #333;
 	margin-bottom: 0.3125em;
+	line-height: 1em;
 }
 
 h1 {
