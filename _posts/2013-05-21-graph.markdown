@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: graph
+title: Graph
+---
+
+This is the 50th post on lolnein.com. Thank you for your support! For more news visit my [blog][blog.lolnein.com].
