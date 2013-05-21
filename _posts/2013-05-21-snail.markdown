@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: snail
+title: Snail
+---
+
+I think of this everytime I "save" a snail. Or a slug. Or a worm.
