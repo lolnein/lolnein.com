@@ -81,7 +81,13 @@ a:hover, a:active {
 #ext {
 	width: 37.5mm;
 	float: left;
-	min-height: 90mm;
+	min-height: 5mm;
+}
+
+#ads {
+	width: 160px;
+	height: 600px;
+	float: left;
 }
 
 .arrow {
