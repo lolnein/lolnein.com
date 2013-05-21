@@ -34,6 +34,8 @@ body {
 	width: 37.5mm;
 	float: left;
 
+	text-align: right;
+
 	font: 400 32pt lolfont;
 }
 
@@ -44,7 +46,6 @@ body {
 .navelm {
 	border-right: 8pt solid #333333;
 
-	text-align: right;
 	text-transform: lowercase;
 
 	padding-top: 4pt;
@@ -76,12 +77,6 @@ a:hover, a:active {
 	display: block;
 	margin: 5mm auto;
 	width: 150mm;
-}
-
-#ext {
-	width: 37.5mm;
-	float: left;
-	min-height: 5mm;
 }
 
 #ads {
