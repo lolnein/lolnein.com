@@ -36,8 +36,6 @@ body {
 	float: left;
 
 	text-align: right;
-
-	font: 400 32pt lolfont;
 }
 
 #nav object {
@@ -52,6 +50,7 @@ body {
 	padding-top: 4pt;
 	padding-right: 10pt;
 	margin: 4pt 0;
+	font: 400 32pt lolfont;
 }
 
 a:link, a:visited {
