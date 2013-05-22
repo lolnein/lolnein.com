@@ -53,6 +53,10 @@ body {
 	font: 400 32pt lolfont;
 }
 
+.navsoc {
+	margin: 4pt;
+}
+
 a:link, a:visited {
 	color: #999999;
 }
