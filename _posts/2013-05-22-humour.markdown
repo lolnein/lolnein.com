@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: humour
+title: Humour
+---
+
+It has become a humounster.
