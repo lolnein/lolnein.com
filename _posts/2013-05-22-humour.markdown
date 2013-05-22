@@ -4,4 +4,4 @@ comic: humour
 title: Humour
 ---
 
-It has become a humounster.
+It has become a humonster.
