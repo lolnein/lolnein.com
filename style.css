@@ -54,7 +54,8 @@ body {
 }
 
 .navsoc {
-	margin: 24pt 0 0 4pt;
+	display: inline-block;
+	margin: 4pt 0 0 4pt;
 }
 
 a:link, a:visited {
