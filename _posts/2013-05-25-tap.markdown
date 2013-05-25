@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: tap
+title: Tap
+---
+
+Stop wineing.
