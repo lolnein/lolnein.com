@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: bench
+title: Bench
+---
+
+I believe in you!
