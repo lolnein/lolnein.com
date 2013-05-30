@@ -4,4 +4,4 @@ comic: darkday
 title: Dark Day
 ---
 
-Nope.
+Maybe so.
