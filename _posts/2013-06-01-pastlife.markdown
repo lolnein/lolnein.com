@@ -1,0 +1,5 @@
+---
+layout: comic
+comic: pastlife
+title: Past Life
+---
