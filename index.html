@@ -9,10 +9,6 @@ language: en-GB-oed
 <div class="center">
 	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
 	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
-	<div style="margin: 0 auto; width: 50mm;">
-		<a href="{{ site.posts.last.id }}/" title="First"><img class="arrow" src="/first.svg" style="float: left" alt="First"/></a>
-		<a href="{{ site.posts.first.id }}/" title="Last"><img class="arrow" src="/last.svg" style="float: right" alt="Last"/></a>
-	</div>
 </div>
 
 	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img class="center" src="/comics/{{ site.posts.first.comic }}.png"/>{% endif %}
@@ -59,10 +55,6 @@ language: en-GB-oed
 <div class="center">
 	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
 	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
-	<div style="margin: 0 auto; width: 50mm;">
-		<a href="{{ site.posts.last.id }}/" title="First"><img class="arrow" src="/first.svg" style="float: left" alt="First"/></a>
-		<a href="{{ site.posts.first.id }}/" title="Last"><img class="arrow" src="/last.svg" style="float: right" alt="Last"/></a>
-	</div>
 </div>
 
 <div id="disqus_thread" class="center"></div>
