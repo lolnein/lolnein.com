@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: scas
+title: S.C.A.S
+---
+
+Just stop being an ignorant prick with the brains of a two-year-old.
