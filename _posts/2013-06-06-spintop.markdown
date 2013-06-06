@@ -3,3 +3,5 @@ layout: comic
 comic: spintop
 title: Spintop
 ---
+
+Ew. That's a huge turn off.
