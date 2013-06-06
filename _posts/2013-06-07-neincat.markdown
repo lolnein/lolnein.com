@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: neincat
+title: Neincat
+---
+
+Say hello to Neincat!
