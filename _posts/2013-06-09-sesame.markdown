@@ -1,0 +1,6 @@
+---
+layout: comic
+comic: sesame
+title: Sesame
+---
+
