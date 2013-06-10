@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: iamatree
+title: I am a Tree
+---
+
+I am a comment.
