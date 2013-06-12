@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: comeback
+title: Come Back
+---
+
+Yes. That's why I haven't drawn a comic lately.
