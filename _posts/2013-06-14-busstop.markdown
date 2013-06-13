@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: busstop
+title: Bus Stop
+---
+
+Those sneaky little buses.
