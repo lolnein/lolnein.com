@@ -4,9 +4,18 @@ comic: karma
 title: Karma
 ---
 
-This post is an entry for the German comic blog "schlogger".
+I changed the punchline because I like this one better.
+You can see the old one [here](http://lolnein.com/comics/karmafirstversion.png).
+
+This post is an entry for the German comic blog "Schlogger".
 This month's topic was "Karma".
 
 Other (mostly German) cartoonists who participated:
 
-...
+[Schlogger](http://schlogger.de/wordpress/comiccollab-21-karma/)
+
+[Isla Volante](http://www.isla-volante.ch/comic-collab-21-karma/)
+
+[Doppeltim](http://www.doppeltim.de/?p=435)
+
+[Hillerkiller](http://hillerkiller.com/blog/?p=951)

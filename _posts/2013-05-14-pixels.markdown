@@ -4,7 +4,7 @@ comic: pixels
 title: Pixels
 ---
 
-This post is an entry for the German comic blog "schlogger".
+This post is an entry for the German comic blog "Schlogger".
 This month's topic was "Pixel".
 
 Other (mostly German) cartoonists who participated:
