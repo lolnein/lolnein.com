@@ -1,0 +1,12 @@
+---
+layout: comic
+comic: karma
+title: Karma
+---
+
+This post is an entry for the German comic blog "schlogger".
+This month's topic was "Karma".
+
+Other (mostly German) cartoonists who participated:
+
+...
