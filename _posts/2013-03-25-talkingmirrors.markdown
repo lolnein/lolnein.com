@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: talkingmirrors
+comic: talkingmirrors.png
 title: Talking Mirrors
 ---
 

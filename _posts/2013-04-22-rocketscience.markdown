@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: rocketscience
+comic: rocketscience.png
 title: Rocket Science
 ---
 

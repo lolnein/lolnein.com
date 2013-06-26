@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: bettergrade
+comic: bettergrade.png
 title: Better Grade
 ---
 

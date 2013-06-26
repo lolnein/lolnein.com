@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: mishka
+comic: mishka.png
 title: Mishka
 ---
 

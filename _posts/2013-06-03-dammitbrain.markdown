@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: dammitbrain
+comic: dammitbrain.png
 title: Dammit Brain
 ---

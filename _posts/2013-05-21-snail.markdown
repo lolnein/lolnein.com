@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: snail
+comic: snail.png
 title: Snail
 ---
 

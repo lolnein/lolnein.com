@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: comeback
+comic: comeback.png
 title: Come Back
 ---
 

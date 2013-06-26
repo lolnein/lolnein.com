@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: moreattention
+comic: moreattention.png
 title: More Attention
 ---
 

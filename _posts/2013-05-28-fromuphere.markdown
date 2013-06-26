@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: fromuphere
+comic: fromuphere.png
 title: From Up Here
 ---
 

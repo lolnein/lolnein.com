@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: cheguewho
+comic: cheguewho.png
 title: Cheguewho
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: improvisational
+comic: improvisational.png
 title: Improvisational
 ---
 

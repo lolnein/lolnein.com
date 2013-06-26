@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: dustmites
+comic: dustmites.png
 title: Dust Mites
 ---
 

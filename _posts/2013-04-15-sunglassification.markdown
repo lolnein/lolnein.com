@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: sunglassification
+comic: sunglassification.png
 title: Sunglassification
 ---
 

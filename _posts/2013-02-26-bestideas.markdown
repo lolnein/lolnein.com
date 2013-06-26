@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: bestideas
+comic: bestideas.png
 title: Best Ideas
 ---

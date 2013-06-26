@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: thisisphone
+comic: thisisphone.png
 title: This Is Phone
 ---
 

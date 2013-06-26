@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: bench
+comic: bench.png
 title: Bench
 ---
 

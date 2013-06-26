@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: trumpet
+comic: trumpet.png
 title: Trumpet
 ---
 

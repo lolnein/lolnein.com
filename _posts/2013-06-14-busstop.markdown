@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: busstop
+comic: busstop.png
 title: Bus Stop
 ---
 

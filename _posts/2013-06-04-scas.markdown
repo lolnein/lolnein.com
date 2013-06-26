@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: scas
+comic: scas.png
 title: S.C.A.S.
 ---
 

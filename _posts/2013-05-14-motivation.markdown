@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: motivation
+comic: motivation.png
 title: Motivation
 ---
 

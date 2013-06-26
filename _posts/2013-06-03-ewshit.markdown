@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: ewshit
+comic: ewshit.png
 title: Ew Shit
 ---
 

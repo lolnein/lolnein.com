@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: missingpunchline
+comic: missingpunchline.png
 title: Missing Punchline
 ---
 

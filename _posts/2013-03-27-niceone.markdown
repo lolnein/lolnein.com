@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: niceone
+comic: niceone.png
 title: Nice One
 ---
 

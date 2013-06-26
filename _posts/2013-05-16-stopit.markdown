@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: stopit
+comic: stopit.png
 title: Stop It
 ---
 

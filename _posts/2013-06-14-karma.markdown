@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: karma
+comic: karma.png
 title: Karma
 ---
 

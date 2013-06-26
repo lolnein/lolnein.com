@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: shampoo
+comic: shampoo.png
 title: Shampoo
 ---
 

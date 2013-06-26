@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: timetoshine
+comic: timetoshine.png
 title: Time to Shine
 ---
 

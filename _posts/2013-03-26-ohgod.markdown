@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: ohgod
+comic: ohgod.png
 title: Oh God
 ---
 

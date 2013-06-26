@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: movieidea
+comic: movieidea.png
 title: Movie Idea
 ---
 

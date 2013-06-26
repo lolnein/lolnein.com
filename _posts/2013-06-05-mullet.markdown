@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: mullet
+comic: mullet.png
 title: Mullet
 ---

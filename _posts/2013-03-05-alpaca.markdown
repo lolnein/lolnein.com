@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: alpaca
+comic: alpaca.png
 title: Alpaca
 ---
 

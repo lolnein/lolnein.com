@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: pixels
+comic: pixels.png
 title: Pixels
 ---
 

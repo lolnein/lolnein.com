@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: timestopped
+comic: timestopped.png
 title: Time Stopped
 ---

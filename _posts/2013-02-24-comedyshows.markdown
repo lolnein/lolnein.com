@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: comedyshows
+comic: comedyshows.png
 title: Comedy Shows
 ---

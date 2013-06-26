@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: addacat
+comic: addacat.png
 title: Add A Cat
 ---
 

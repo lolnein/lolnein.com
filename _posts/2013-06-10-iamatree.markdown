@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: iamatree
+comic: iamatree.png
 title: I am a Tree
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: fathersday
+comic: fathersday.png
 title: Father's Day
 ---
 

@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: inprison
+comic: inprison.png
 title: In Prison
 ---

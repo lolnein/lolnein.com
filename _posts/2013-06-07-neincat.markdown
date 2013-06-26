@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: neincat
+comic: neincat.png
 title: Neincat
 ---
 

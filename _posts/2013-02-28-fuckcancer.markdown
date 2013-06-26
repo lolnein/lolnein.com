@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: fuckcancer
+comic: fuckcancer.png
 title: Fuck Cancer
 ---
 

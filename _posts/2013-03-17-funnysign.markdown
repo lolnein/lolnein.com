@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: funnysign
+comic: funnysign.png
 title: Funny Sign
 ---
 

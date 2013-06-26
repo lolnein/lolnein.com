@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: friday
+comic: friday.png
 title: Friday
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: ownplanet
+comic: ownplanet.png
 title: Own Planet
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: darkday
+comic: darkday.png
 title: Dark Day
 ---
 

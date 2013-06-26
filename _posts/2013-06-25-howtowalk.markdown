@@ -1,6 +1,6 @@
 ---
-layout: gifcomic
-comic: howtowalk
+layout: comic
+comic: howtowalk.gif
 title: How to Walk
 ---
 

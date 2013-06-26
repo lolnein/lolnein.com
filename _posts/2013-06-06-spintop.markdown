@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: spintop
+comic: spintop.png
 title: Spintop
 ---
 

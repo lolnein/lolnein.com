@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: graph
+comic: graph.png
 title: Graph
 ---
 

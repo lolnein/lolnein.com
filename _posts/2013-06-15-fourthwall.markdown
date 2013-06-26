@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: fourthwall
+comic: fourthwall.png
 title: Fourth Wall
 ---
 

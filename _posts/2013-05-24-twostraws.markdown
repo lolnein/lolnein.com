@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: twostraws
+comic: twostraws.png
 title: Two Straws
 ---
 

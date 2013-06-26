@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: wakeup
+comic: wakeup.png
 title: Wake Up
 ---
 

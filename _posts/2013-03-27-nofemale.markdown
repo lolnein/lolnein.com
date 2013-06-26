@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: nofemale
+comic: nofemale.png
 title: Female Character
 ---
 

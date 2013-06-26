@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: mothersday
+comic: mothersday.png
 title: Mother's Day
 ---
 

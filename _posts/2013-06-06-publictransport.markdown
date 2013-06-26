@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: publictransport
+comic: publictransport.png
 title: Public Transport
 ---
 

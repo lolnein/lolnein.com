@@ -11,7 +11,7 @@ language: en-GB-oed
 	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
-	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img class="center" src="/comics/{{ site.posts.first.comic }}.png"/>{% endif %}
+	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img class="center" src="/comics/{{ site.posts.first.comic }}"/>{% endif %}
 
 <div class="center box">
 	<div class="title">{{ site.posts.first.title }}</div>

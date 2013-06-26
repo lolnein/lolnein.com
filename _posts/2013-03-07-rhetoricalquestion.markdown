@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: rhetoricalquestion
+comic: rhetoricalquestion.png
 title: Rhetorical Question
 ---
 

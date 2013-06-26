@@ -1,5 +1,5 @@
 ---
 layout: comic
-comic: pastlife
+comic: pastlife.png
 title: Past Life
 ---

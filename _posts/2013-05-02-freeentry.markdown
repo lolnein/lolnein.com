@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: freeentry
+comic: freeentry.png
 title: Free Entry
 ---
 

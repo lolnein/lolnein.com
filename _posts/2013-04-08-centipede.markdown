@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: centipede
+comic: centipede.png
 title: Centipede
 ---
 That frog sure is indelicate.

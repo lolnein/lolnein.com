@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: forgetfulness
+comic: forgetfulness.png
 title: Forgetfulness
 ---
 

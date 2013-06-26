@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: longcable
+comic: longcable.png
 title: Long Cable
 ---
 

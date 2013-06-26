@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: leftarm
+comic: leftarm.png
 title: Left Arm
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: conjoined
+comic: conjoined.png
 title: Conjoined
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: onthetrain
+comic: onthetrain.png
 title: On The Train
 ---
 

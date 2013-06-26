@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: tap
+comic: tap.png
 title: Tap
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: coffee
+comic: coffee.png
 title: Coffee
 ---
 
