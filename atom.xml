@@ -32,7 +32,7 @@
 
 		<content type="xhtml">
 			<article xmlns="http://www.w3.org/1999/xhtml">
-				{% if page.layout == 'youtube' %}<iframe width="560" height="315" src="{{ post.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img src="http://lolnein.com/comics/{{ post.comic }}.png"/>{% endif %}
+				{% if page.layout == 'youtube' %}<iframe width="560" height="315" src="{{ post.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img src="http://lolnein.com/comics/{{ post.comic }}"/>{% endif %}
 				{{ post.content }}
 			</article>
 		</content>
