@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: buttjokes
+comic: buttjokes.png
 title: Butt Jokes
 ---
 
