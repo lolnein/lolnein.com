@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: anotheridea	
+comic: anotheridea.png	
 title: Another Idea
 ---
 
