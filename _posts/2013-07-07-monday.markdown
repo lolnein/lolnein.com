@@ -1,0 +1,6 @@
+---
+layout: comic
+comic: monday.gif
+title: Monday
+---
+
