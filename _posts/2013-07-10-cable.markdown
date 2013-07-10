@@ -1,0 +1,6 @@
+---
+layout: comic
+comic: cable.png
+title: Cable
+---
+
