@@ -148,3 +148,10 @@ h2 {
 p {
 	margin-bottom: 1.25em;
 }
+
+#keywords {
+	color: #ccc;
+	font-size: 7pt;
+	font-style: italic;
+	text-align: right;
+}

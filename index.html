@@ -20,6 +20,9 @@ language: en-GB-oed
 	<div itemprop="articleBody">
 		{{ site.posts.first.content }}
 	</div>
+	<div id="keywords">
+		{{ site.posts.first.keywords | join:' ' }}
+	</div>
 
 	<div class="social robots-nocontent">
 		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.video %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ site.posts.first.url }}/">Flattr</a>
