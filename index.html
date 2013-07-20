@@ -11,10 +11,10 @@ language: en-GB-oed
 	{% if site.posts.first.next %}<a class="robots-nocontent" href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
-	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img class="center" src="/comics/{{ site.posts.first.comic }}"/>{% endif %}
+	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img property="og:image" itemprop="image" class="center" src="/comics/{{ site.posts.first.comic }}"/>{% endif %}
 
 <div class="center box">
-	<meta itemprop="url" content="http://lolnein.com{{ site.posts.first.url }}"/>
+	<meta property="og:url" itemprop="url" content="http://lolnein.com{{ site.posts.first.url }}"/>
 	<div class="title" itemprop="name" property="dc:title">{{ site.posts.first.title }}</div>
 	<div class="date" itemprop="datePublished" property="dc:date" content="{{ site.posts.first.date | date: '%Y-%m-%d' }}">{{ site.posts.first.date | date_to_long_string }}</div>
 	<div itemprop="articleBody">
