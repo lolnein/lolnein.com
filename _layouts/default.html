@@ -10,7 +10,8 @@ language: en-GB-oed
 
 		<meta charset="UTF-8"/>
 		<meta name="generator" content="Jekyll"/>
-		<meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join:', ' }}{% else %}lolnein, webcomic, Vincent Kunert{% endif %}"/>
+		<meta name="keywords" property="dc:subject" content="{% if page.keywords %}{{ page.keywords | join:', ' }}{% else %}lolnein, webcomic{% endif %}"/>
+		<meta name="author" property="dc:creator" content="Vincent Kunert"/>
 
 		<link rel="icon" href="/icon.png" type="image/png"/>
 		<link rel="icon" href="/icon.svg" type="image/svg+xml"/>
