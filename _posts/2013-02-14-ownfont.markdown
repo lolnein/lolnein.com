@@ -2,4 +2,6 @@
 layout: comic
 comic: ownfont.png
 title: Own Font
+alt: I made a font myself.
+keywords: font
 ---
