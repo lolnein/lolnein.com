@@ -3,7 +3,7 @@
 	<div class="date">{{ page.date | date_to_long_string }}</div>
 	{{ content }}
 
-	<div class="social">
+	<div class="social robots-nocontent">
 		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.video %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ page.url }}/">Flattr</a>
 		<script type="text/javascript">(function() {
 			var s = document.createElement('script');
@@ -38,11 +38,11 @@
 </div>
 
 <div class="center">
-	{% if page.previous %}<a href="{{ page.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
-	{% if page.next %}<a href="{{ page.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
+	{% if page.previous %}<a class="robots-nocontent" href="{{ page.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	{% if page.next %}<a class="robots-nocontent" href="{{ page.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
-<div id="disqus_thread" class="center"></div>
+<div id="disqus_thread" class="center robots-nocontent"></div>
 <script type="text/javascript">
 	var disqus_shortname = 'lolnein';
 	var disqus_identifier = '{{ page.id }}';

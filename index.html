@@ -7,8 +7,8 @@ language: en-GB-oed
 <div id="fb-root"></div>
 
 <div class="center">
-	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
-	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
+	{% if site.posts.first.previous %}<a class="robots-nocontent" href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	{% if site.posts.first.next %}<a class="robots-nocontent" href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
 	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img class="center" src="/comics/{{ site.posts.first.comic }}"/>{% endif %}
@@ -18,7 +18,7 @@ language: en-GB-oed
 	<div class="date">{{ site.posts.first.date | date_to_long_string }}</div>
 	{{ site.posts.first.content }}
 
-	<div class="social">
+	<div class="social robots-nocontent">
 		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.video %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ site.posts.first.url }}/">Flattr</a>
 		<script type="text/javascript">(function() {
 			var s = document.createElement('script');
@@ -53,11 +53,11 @@ language: en-GB-oed
 </div>
 
 <div class="center">
-	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
-	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
+	{% if site.posts.first.previous %}<a class="robots-nocontent" href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	{% if site.posts.first.next %}<a class="robots-nocontent" href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
-<div id="disqus_thread" class="center"></div>
+<div id="disqus_thread" class="center robots-nocontent"></div>
 <script type="text/javascript">
 	var disqus_shortname = 'lolnein';
 	var disqus_identifier = '{{ site.posts.first.id }}';
