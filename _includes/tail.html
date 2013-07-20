@@ -1,7 +1,10 @@
 <div class="center box">
-	<div class="title" property="dc:title">{{ page.title }}</div>
-	<div class="date" property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</div>
-	{{ content }}
+	<meta itemprop="url" content="http://lolnein.com{{ page.url }}/"/>
+	<div class="title" itemprop="name" property="dc:title">{{ page.title }}</div>
+	<div class="date" itemprop="datePublished" property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</div>
+	<div itemprop="articleBody">
+		{{ content }}
+	</div>
 
 	<div class="social robots-nocontent">
 		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.video %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ page.url }}/">Flattr</a>
