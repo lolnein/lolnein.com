@@ -36,5 +36,7 @@
 				{{ post.content }}
 			</article>
 		</content>
+{% for keyword in post.keywords limit:16 %}
+		<category term="{{ keyword | xml_escape }}"/>{% endfor %}
 	</entry>{% endfor %}
 </feed>
