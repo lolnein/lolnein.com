@@ -5,9 +5,6 @@
 	<div itemprop="articleBody">
 		{{ content }}
 	</div>
-	<div id="keywords">
-		{{ page.keywords | join:' ' }}
-	</div>
 
 	<div class="social robots-nocontent">
 		<a class="FlattrButton" style="display: none" title="{{ page.title }}" data-flattr-uid="lolnein" data-flattr-description="{{ content | strip_html }}" data-flattr-category="{% if page.video %}video{% else %}images{% endif %}" data-flattr-button="compact" data-flattr-mode="auto" href="http://lolnein.com{{ page.url }}/">Flattr</a>
