@@ -3,5 +3,5 @@ layout: default
 ---
 
 {% include head.html %}
-<img class="center" src="/comics/{{ page.comic }}"/>
+<img class="center" src="/comics/{{ page.comic }}"{% if page.hover %} title="{{ page.hover }}"{% endif %}{% if page.alt %} alt="{{ page.alt }}"{% endif %}/>
 {% include tail.html %}
