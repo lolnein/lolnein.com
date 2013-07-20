@@ -1,6 +1,6 @@
 <div class="center box">
-	<div class="title">{{ page.title }}</div>
-	<div class="date">{{ page.date | date_to_long_string }}</div>
+	<div class="title" property="dc:title">{{ page.title }}</div>
+	<div class="date" property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</div>
 	{{ content }}
 
 	<div class="social robots-nocontent">

@@ -14,8 +14,8 @@ language: en-GB-oed
 	{% if site.posts.first.layout == 'youtube' %}<iframe class="center" width="560" height="315" src="{{ site.posts.first.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img class="center" src="/comics/{{ site.posts.first.comic }}"/>{% endif %}
 
 <div class="center box">
-	<div class="title">{{ site.posts.first.title }}</div>
-	<div class="date">{{ site.posts.first.date | date_to_long_string }}</div>
+	<div class="title" property="dc:title">{{ site.posts.first.title }}</div>
+	<div class="date" property="dc:date" content="{{ site.posts.first.date | date: '%Y-%m-%d' }}">{{ site.posts.first.date | date_to_long_string }}</div>
 	{{ site.posts.first.content }}
 
 	<div class="social robots-nocontent">
