@@ -3,7 +3,7 @@ layout: comic
 comic: payback.png
 title: Payback
 alt: Argh. My back is killing me.
-keywords: back, knife, stabbing
+keywords: [back, knife, stabbing]
 ---
 
 MUST. RESIST. MAKING. MORE. PUNS.

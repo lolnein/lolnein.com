@@ -3,5 +3,5 @@ layout: comic
 comic: inprison.png
 title: In Prison
 alt: I hope I'll never have to play 'never have I ever' in a prison.
-keywords: prison, sex
+keywords: [prison, sex]
 ---

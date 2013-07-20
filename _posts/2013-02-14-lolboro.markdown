@@ -3,7 +3,7 @@ layout: comic
 comic: lolboro.png
 title: Lolboro
 alt: Smoking seriously harms you and others around you.
-keywords: smoking, cigarettes, harm
+keywords: [smoking, cigarettes, harm]
 ---
 
 Oh, those texts are supposed to *keep* me from smoking?

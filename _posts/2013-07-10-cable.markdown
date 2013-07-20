@@ -3,6 +3,6 @@ layout: comic
 comic: cable.png
 title: Cable
 alt: Ooh, a cable!
-keywords: office chair, cable, rage
+keywords: [office chair, cable, rage]
 ---
 
