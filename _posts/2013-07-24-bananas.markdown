@@ -1,0 +1,16 @@
+---
+layout: comic
+comic: bananas.png
+title: Bananas
+alt: Bananas
+keywords: [bananas, phone, banana phone]
+---
+
+BOO BA DOO BA DOOB.
+
+
+Do you enjoy my comics?
+Like lolnein on [Facebook](https://www.facebook.com/lolnein)!
+Follow lolnein on [Twitter](https://twitter.com/lolnein)!
+Heart lolnein on [Tumblr](http://lolneincom.tumblr.com/)!
+
