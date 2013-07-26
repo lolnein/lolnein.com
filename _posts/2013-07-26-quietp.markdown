@@ -1,0 +1,15 @@
+---
+layout: comic
+comic: quietp.png
+title: Quietp
+alt: Quietp
+keywords: [toilet, p, quiet, pun]
+---
+
+[Badumtss!](http://badum-tish.com/)
+
+Do you enjoy my comics?
+Like lolnein on [Facebook](https://www.facebook.com/lolnein)!
+Follow lolnein on [Twitter](https://twitter.com/lolnein)!
+Heart lolnein on [Tumblr](http://lolneincom.tumblr.com/)!
+
