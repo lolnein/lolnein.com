@@ -1,0 +1,15 @@
+---
+layout: comic
+comic: pencil.png
+title: Pencil
+alt: Pencil
+keywords: [pen, pencil, magic]
+---
+
+And then it's GONE.
+
+Do you enjoy my comics?
+Like lolnein on [Facebook](https://www.facebook.com/lolnein)!
+Follow lolnein on [Twitter](https://twitter.com/lolnein)!
+Reblog lolnein on [Tumblr](http://lolneincom.tumblr.com/)!
+
