@@ -148,3 +148,7 @@ h2 {
 p {
 	margin-bottom: 1.25em;
 }
+
+img {
+	max-width: 100%;
+}
