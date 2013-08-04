@@ -5,9 +5,3 @@ title: Down The Stairs
 alt: Down The Stairs
 keywords: [fell, down, stairs]
 ---
-
-Do you enjoy my comics?
-Like lolnein on [Facebook](https://www.facebook.com/lolnein)!
-Follow lolnein on [Twitter](https://twitter.com/lolnein)!
-Heart lolnein on [Tumblr](http://lolneincom.tumblr.com/)!
-
