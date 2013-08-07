@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: idea.png
+title: Idea
+alt: Idea
+keywords: [ideas, day, night]
+---
+
+Who needs ideas anyway?
