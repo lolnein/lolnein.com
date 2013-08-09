@@ -6,7 +6,7 @@ language: en-GB-oed
 
 <div id="fb-root"></div>
 
-<div class="center">
+<div class="center" style="text-align: center">
 	{% if site.posts.first.previous %}<a class="robots-nocontent" href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
 
 	<a href="{% capture maximum %}{{ site.posts | size }}{% endcapture %}{% capture global %}{{ site.time | date:'%Y%H%M%S' }}{% endcapture %}{% capture local %}{{ site.posts.first.date | date:'%Y%j' }}{% endcapture %}{% capture random %}{{ global | plus:local | modulo:maximum }}{% endcapture %}{% for post in site.posts limit:1 offset:random %}{{ post.id }}{% endfor %}">Random</a>
