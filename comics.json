@@ -1,0 +1,6 @@
+---
+---
+[
+{% for post in site.posts %}	"{{ post.id }}/"{% if forloop.last == false %},
+{% endif %}{% endfor %}
+]
