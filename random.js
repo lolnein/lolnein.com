@@ -14,8 +14,10 @@ function spawn(sources, ready) {
 	}
 }
 
-spawn(['//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js'], function() {
-	$.getJSON('/comics.json', function(comics) {
-		$('.random').attr('href', comics[Math.floor(Math.random() * comics.length)]);
+function random() {
+	spawn(['//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js'], function() {
+		$.getJSON('/comics.json', function(comics) {
+			location.href = comics[Math.floor(Math.random() * comics.length)];
+		});
 	});
-});
+}
