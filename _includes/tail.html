@@ -45,11 +45,11 @@
 </div>
 
 <div class="center robots-nocontent" style="text-align: center">
-	{% if page.previous %}<a href="{{ page.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+	{% if page.previous %}<a rel="prev" href="{{ page.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
 
 	<a href="javascript:random()" title="Random"><img class="arrow" src="/random.svg" alt="Random"/></a>
 
-	{% if page.next %}<a class="robots-nocontent" href="{{ page.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
+	{% if page.next %}<a rel="next" href="{{ page.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
 <div id="disqus_thread" class="center robots-nocontent"></div>
