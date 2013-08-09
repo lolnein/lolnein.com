@@ -9,7 +9,7 @@ language: en-GB-oed
 <div class="center" style="text-align: center">
 	{% if site.posts.first.previous %}<a class="robots-nocontent" href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
 
-	<a href="{% capture maximum %}{{ site.posts | size }}{% endcapture %}{% capture global %}{{ site.time | date:'%Y%H%M%S' }}{% endcapture %}{% capture local %}{{ site.posts.first.date | date:'%Y%j' }}{% endcapture %}{% capture random %}{{ global | plus:local | modulo:maximum }}{% endcapture %}{% for post in site.posts limit:1 offset:random %}{{ post.id }}{% endfor %}/"><img class="arrow" src="/random.svg" alt="Random"/></a>
+	<a href="{% capture maximum %}{{ site.posts | size }}{% endcapture %}{% capture global %}{{ site.time | date:'%Y%H%M%S' }}{% endcapture %}{% capture local %}{{ site.posts.first.date | date:'%Y%j' }}{% endcapture %}{% capture random %}{{ global | plus:local | modulo:maximum }}{% endcapture %}{% for post in site.posts limit:1 offset:random %}{{ post.id }}{% endfor %}/" title="Random"><img class="arrow" src="/random.svg" alt="Random"/></a>
 
 	{% if site.posts.first.next %}<a class="robots-nocontent" href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
@@ -62,9 +62,12 @@ language: en-GB-oed
 	</div>
 </div>
 
-<div class="center">
-	{% if site.posts.first.previous %}<a class="robots-nocontent" href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
-	{% if site.posts.first.next %}<a class="robots-nocontent" href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
+<div class="center robots-nocontent" style="text-align: center">
+	{% if site.posts.first.previous %}<a href="{{ site.posts.first.previous.id }}/" title="Previous"><img class="arrow" src="/prev_dark.svg" style="float: left" alt="Previous"/></a>{% else %}<img class="arrow" src="/prev_light.svg" style="float: left" alt="Previous"/>{% endif %}
+
+	<a href="{% capture maximum %}{{ site.posts | size }}{% endcapture %}{% capture global %}{{ site.time | date:'%Y%H%M%S' }}{% endcapture %}{% capture local %}{{ site.posts.first.date | date:'%Y%j' }}{% endcapture %}{% capture random %}{{ global | plus:local | modulo:maximum }}{% endcapture %}{% for post in site.posts limit:1 offset:random %}{{ post.id }}{% endfor %}/" title="Random"><img class="arrow" src="/random.svg" alt="Random"/></a>
+
+	{% if site.posts.first.next %}<a href="{{ site.posts.first.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
 <div id="disqus_thread" class="center robots-nocontent"></div>
