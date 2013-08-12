@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: magicmirror#2.png
+comic: magicmirror2.png
 title: Magic Mirror #2
 alt: Magic Mirror #2
 keywords: [magic, mirror, love]
