@@ -25,16 +25,16 @@
 {% for post in site.posts limit:256 %}
 	<entry xml:lang="en-GB-oed">
 		<title>{{ post.title | xml_escape }}</title>
-		<id>urn:x-lolnein:{{ post.id | xml_escape }}</id>
+		<id>urn:x-lolnein:{{ post.id | replace:'/','%2F' | xml_escape }}</id>
 		<link rel="alternate" href="http://lolnein.com{{ post.url }}/"/>
-		<published>{{ post.date | date: "%Y-%m-%d" }}</published>
-		<updated>{% if post.update %}{{ post.update | xml_escape }}{% else %}{{ post.date | date: "%Y-%m-%d" }}{% endif %}</updated>
+		<published>{{ post.date | date: "%Y-%m-%dT00:00:00Z" }}</published>
+		<updated>{% if post.update %}{{ post.update | xml_escape }}{% else %}{{ post.date | date: "%Y-%m-%dT00:00:00Z" }}{% endif %}</updated>
 
 		<content type="xhtml">
-			<article xmlns="http://www.w3.org/1999/xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
 				{% if page.layout == 'youtube' %}<iframe width="560" height="315" src="{{ post.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img src="http://lolnein.com/comics/{{ post.comic }}"/>{% endif %}
 				{{ post.content }}
-			</article>
+			</div>
 		</content>
 {% for keyword in post.keywords limit:16 %}
 		<category term="{{ keyword | xml_escape }}"/>{% endfor %}
