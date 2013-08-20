@@ -25,7 +25,8 @@ language: en-GB-oed
 
 		<link rel="alternate" href="/feed/" type="application/atom+xml" title="Atom feed"/>
 
-		<script type="text/javascript" src="/smallpox.js" defer="defer"></script>
+		<script type="text/javascript"><![CDATA[function smallpox(e,a,c){!function(s){s.spx=s.spx||"",s.write=function(e){s.spx+=e};var t=s.createElement("script");t.type="application/javascript",t.src=a,t.defer=!0,t.async=!0,t.onload=function(){var a=s.spx;s.spx="";for(var t=0,n="",r=0;r<a.length;++r){switch(t){case 0:"<"===a[r]&&(t=1);break;case 1:switch(a[r]){case">":t=0;break;case"=":t=2}break;case 2:switch(a[r]){case'"':t=3;break;case"'":t=4;break;default:t=5,n+='"'}break;case 3:'"'===a[r]&&(t=1);break;case 4:"'"===a[r]&&(t=1);case 5:" "===a[r]&&(n+='"',t=1)}n+=a[r]}s.getElementById(e).innerHTML+=n,delete n,c&&c()},s.getElementsByTagName("head")[0].appendChild(t)}(document)}]]></script>
+
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-38526206-1']);
