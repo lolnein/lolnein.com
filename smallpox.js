@@ -37,7 +37,7 @@ function smallpox(id, url) {
 				case '"':
 					state = 3;
 					break;
-				case '''':
+				case '\'':
 					state = 4;
 					break;
 				default:
@@ -53,7 +53,7 @@ function smallpox(id, url) {
 				break;
 
 			case 4:
-				if (capture[iter] === '''')
+				if (capture[iter] === '\'')
 					state = 1;
 
 			case 5:
