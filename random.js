@@ -10,7 +10,7 @@ function spawn(sources, ready) {
 			--count || ready();
 		};
 
-		document.documentElement.firstChild.appendChild(script);
+		document.getElementByTagName('head')[0].appendChild(script);
 	}
 }
 
