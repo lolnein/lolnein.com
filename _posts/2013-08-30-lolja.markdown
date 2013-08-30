@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: lolja.png
+title: Lolja
+alt: Lolja
+keywords: [lolnein, lolja, vocabulary]
+---
+
+lolmaybe.
+
+(Pssst. 'Ja' means 'Yes'. *MIND BLOWN*)
