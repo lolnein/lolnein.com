@@ -19,4 +19,4 @@ Germany
 
 vin *at* lolnein.com
 
-Generously hosted by [https://nyantec.com/](nyantec).
+Generously hosted by [nyantec](https://nyantec.com/).
