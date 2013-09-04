@@ -18,3 +18,5 @@ Tegeler Weg 99\\
 Germany
 
 vin *at* lolnein.com
+
+Generously hosted by [https://nyantec.com/](nyantec).
