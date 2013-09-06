@@ -1,0 +1,10 @@
+---
+layout: comic
+comic: 2ds.gif
+title: 2DS
+alt: 2DS
+keywords: [2DS, 3DS, nintendo]
+---
+
+Many people mentioned how the smartphone comic reminded them of the new 2DS.
+So here you go!
