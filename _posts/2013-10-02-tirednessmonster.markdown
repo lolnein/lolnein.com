@@ -6,4 +6,4 @@ alt: Tiredness Monster
 keywords: [tiredness, monster, sleep]
 ---
 
-I AM BEDMAN.
+I'M BEDMAN.
