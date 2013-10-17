@@ -150,3 +150,7 @@ p {
 img {
 	max-width: 100%;
 }
+
+.inline-img {
+	max-width: 45%;
+}
