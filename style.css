@@ -156,10 +156,14 @@ img {
 }
 
 .img-block {
+	display: inline-block;
 	max-width: 45%;
-	margin: 0.625em;
+	margin: 2.5%;
+	font-style: italic;
 }
 
 .img-block img {
-	display: block;
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 0.625em;
 }
