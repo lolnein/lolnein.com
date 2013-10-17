@@ -157,8 +157,8 @@ img {
 
 .img-block {
 	display: inline-block;
-	max-width: 45%;
-	margin: 2%;
+	width: 30%;
+	margin: 1%;
 	font-style: italic;
 }
 
