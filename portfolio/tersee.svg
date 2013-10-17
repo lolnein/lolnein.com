@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 640 320">
+	<title>Tersee</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title>Tersee</dc:title>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Vincent Kunert</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:publisher>
+					<cc:Agent>
+						<dc:title>Mikael Voss</dc:title>
+					</cc:Agent>
+				</dc:publisher>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(123.57142,-343.31439)">
+		<g transform="translate(5.000005,-11.90494)">
+			<g transform="matrix(1.25,0,0,-1.25,157.67857,475.11127)">
+				<path d="m0,0,9,0,0,16.729-45,0,0-150.56,18,0,0,117.1c0,9.24,8.059,16.73,18,16.73" fill-rule="nonzero" fill="#2f3b6d"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,327.58582,454.19939)">
+				<path d="M0,0,7.989,8.364,0,16.729h-63.926c-29.824,0-54-22.47-54-50.187v-83.646c0-18.479-16.117-33.459-36-33.459v-16.729c29.824,0,54,22.47,54,50.188v83.646c0,18.478,16.117,33.458,36,33.458l63.93-0.004z" fill-rule="nonzero" fill="#2f3b6d"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,-123.57142,433.28814)">
+				<path d="m0,0,0-16.729,27,0,0-150.56,18,0,0,117.1c0,18.479,16.117,33.459,36,33.459h108v16.731h-189z" fill-rule="nonzero" fill="#2f3b6d"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,56.428566,475.11127)">
+				<path d="m0,0-54,0c-14.912,0-27-11.234-27-25.094v-83.645c0-13.86,12.088-25.094,27-25.094h63v16.729h-54c-9.941,0-18,7.49-18,16.729v66.917c0,9.239,8.059,16.729,18,16.729h36c9.941,0,18-7.49,18-16.729v-16.73c0-9.244-8.059-16.734-18-16.734h-45v-16.729h54c14.912,0,27,11.235,27,25.094v33.458c0,13.86-12.088,25.094-27,25.094" fill-rule="nonzero" fill="#4d7eb0"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,472.67857,475.11127)">
+				<path d="m0,0-54,0c-14.912,0-27-11.234-27-25.094v-83.645c0-13.86,12.088-25.094,27-25.094h63v16.729h-54c-9.941,0-18,7.49-18,16.729v66.917c0,9.239,8.059,16.729,18,16.729h36c9.941,0,18-7.49,18-16.729v-16.73c0-9.244-8.059-16.734-18-16.734h-45v-16.729h54c14.912,0,27,11.235,27,25.094v33.458c0,13.86-12.088,25.094-27,25.094" fill-rule="nonzero" fill="#4d7eb0"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,341.88995,478.59877)">
+				<path d="m0,0-14.518-15.201c6.541-2.506,11.149-8.483,11.149-15.467v-16.729c0-9.24-8.059-16.73-18-16.73h-45v-16.728h54c14.912,0,27,11.234,27,25.093v33.458c0,9.715-5.943,18.134-14.631,22.304" fill-rule="nonzero" fill="#4d7eb0"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,247.67857,600.58002)">
+				<path d="m0,0,0,66.917c0,9.239,8.059,16.729,18,16.729h13.972l15.977,16.729h-38.949c-14.912,0-27-11.234-27-25.094v-83.645c0-13.86,12.088-25.094,27-25.094h63v16.729h-54c-9.941-0.005-18,7.485-18,16.724" fill-rule="nonzero" fill="#4d7eb0"/>
+			</g>
+			<g transform="matrix(1.25,0,0,-1.25,298.25107,367.12427)">
+				<path d="M0,0-13.458-11.109,34.475-61.297-13.458-111.48,0-122.59,58.542-61.297,0,0z" fill-rule="nonzero" fill="#b20944"/>
+			</g>
+		</g>
+	</g>
+</svg>
