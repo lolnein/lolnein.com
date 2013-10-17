@@ -4,6 +4,6 @@ title: Portfolio
 ---
 
 *Logo for nyantec 2012*
-[![nyantec Logo](nyantec.svg){.inline-img}](https://nyantec.com/)
+[![nyantec Logo](nyantec.svg){:.inline-img}](https://nyantec.com/)
 *Logo for tersee 2012*
-[![tersee Logo](tersee.svg){.inline-img}](http://tersee.com/)
+[![tersee Logo](tersee.svg){:.inline-img}](http://tersee.com/)
