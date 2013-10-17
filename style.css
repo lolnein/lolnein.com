@@ -147,7 +147,7 @@ p {
 	margin-bottom: 1.25em;
 }
 
-p.clear {
+.clear {
 	clear: both;
 }
 
