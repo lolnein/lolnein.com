@@ -160,6 +160,7 @@ img {
 	width: 30%;
 	margin: 1%;
 	font-style: italic;
+	vertical-align: top;
 }
 
 .img-block img {
