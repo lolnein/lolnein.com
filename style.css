@@ -155,8 +155,11 @@ img {
 	max-width: 100%;
 }
 
-.inline-img {
+.img-block {
 	max-width: 45%;
-	float: right;
 	margin: 0.625em;
+}
+
+.img-block img {
+	display: block;
 }
