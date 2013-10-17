@@ -153,4 +153,5 @@ img {
 
 .inline-img {
 	max-width: 45%;
+	float: right;
 }
