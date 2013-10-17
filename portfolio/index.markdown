@@ -6,17 +6,17 @@ title: Portfolio
 <div markdown="1" class="img-block">
 [![BUND brochure](bundj.png)](/)
 
-Brochure for BUND Jugend 2013
+2013 – Brochure against brown coal mining for BUND Jugend (cover; illustrations on page 8, 11, 13, 22; animals)
 </div>
 
 <div markdown="1" class="img-block">
 [![nyantec Logo](nyantec.svg)](https://nyantec.com/)
 
-Logo for nyantec 2012
+2012 – Logo for nyantec IT consulting company
 </div>
 
 <div markdown="1" class="img-block">
 [![tersee Logo](tersee.svg)](http://tersee.com/)
 
-Logo for tersee 2012
+2012 – Logo for tersee real‐time news search engine
 </div>
