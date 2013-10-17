@@ -147,6 +147,10 @@ p {
 	margin-bottom: 1.25em;
 }
 
+p.clear {
+	clear: both;
+}
+
 img {
 	max-width: 100%;
 }
