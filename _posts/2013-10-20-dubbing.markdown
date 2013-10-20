@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: dubbing.png
+title: Dubbing
+alt: Dubbing
+keywords: [dubbing, pun, translation, tv]
+---
+
+And that's why I don't like dubbing.
