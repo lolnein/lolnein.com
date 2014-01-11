@@ -6,4 +6,4 @@ alt: Comments In Hindsight
 keywords: [hindsight]
 ---
 
-Also you should have payed more attention in school.
+Also you should have paid more attention in school.
