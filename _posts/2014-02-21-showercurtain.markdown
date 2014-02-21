@@ -6,4 +6,4 @@ alt: Shower Curtain
 keywords: [shower, curtain]
 ---
 
-[Here's a new blog post](http://blog.lolnein.com/2014/02/21/longbreak) on why it took me so long to create a new comic.
+[Here's a new blog post](http://blog.lolnein.com/2014/02/21/alongbreak) on why it took me so long to create a new comic.
