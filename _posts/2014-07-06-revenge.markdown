@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: revenge.png
+title: Revenge
+alt: Revenge
+keywords: [nintendo, mario kart, game, murder]
+---
