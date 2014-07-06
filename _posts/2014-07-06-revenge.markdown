@@ -5,3 +5,4 @@ title: Revenge
 alt: Revenge
 keywords: [nintendo, mario kart, game, murder]
 ---
+"That explains everything."
