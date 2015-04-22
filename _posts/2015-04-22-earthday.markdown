@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: earthday.png
+title: Earth Day
+alt: Earth Day
+keywords: [earth, day]
+---
+
+That balloon will take an awfully long time to decompose.
