@@ -6,4 +6,5 @@ alt: Smartphones (Part 2)
 keywords: [bendgate, iphone, apple, smartphones, flip phones]
 ---
 
-You can find the first part of this comic [HERE](http://lolnein.com/2013/08/28/smartphones/).
+[PART 1](http://lolnein.com/2013/08/28/smartphones/)
+[PART 3](http://lolnein.com/2015/04/24/smartwatches/)
