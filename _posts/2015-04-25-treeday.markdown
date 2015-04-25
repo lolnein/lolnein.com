@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: treeday.png
+title: Tree Day
+alt: Tree Day
+keywords: [tree, day, accident]
+---
+
+Happy Tree Day! Go outside! Plant a tree!
