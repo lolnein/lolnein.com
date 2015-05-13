@@ -1,0 +1,8 @@
+---
+layout: comic
+comic: earbuds.gif
+title: Earbuds
+alt: Earbuds
+keywords: [earbuds, tangled]
+---
+
