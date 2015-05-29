@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: beardman.png
+title: Beardman
+alt: Beardman
+keywords: [beard, shave, heros, bum fluff]
+---
+
+"We are here to save the world, not shave it!"
