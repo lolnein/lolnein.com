@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: tomorrow.png
+title: Tomorrow
+alt: Tomorrow
+keywords: [tomorrow, brain, procrastination, procrastinating]
+---
+
+I did a few comics for The Daily Dot!
