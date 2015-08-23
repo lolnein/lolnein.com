@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: walls.png
+title: Walls
+alt: Walls
+keywords: [walls, people, hate]
+---
+
+Some of you might remember that I shared this comic on Facbook a few month ago.
+It had the link giggleget.com on it back then.
+But since I don't work on that project anymore, I thought it would be a good idea to turn it into a LOLNEIN comic. 
