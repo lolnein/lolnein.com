@@ -6,8 +6,6 @@ alt: Stylus vs Ball Pen
 keywords: [stylus, ball pen, apple, pencil]
 ---
 
-Now I want a floppy disk.
-
 More comics from this series:
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
