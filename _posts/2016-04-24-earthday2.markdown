@@ -7,3 +7,7 @@ keywords: [earth, day, sun, sunday, space]
 ---
 
 Burn!
+
+Bonus Panel:
+
+![Earth Day 2 Bonus Panel](/images/earthday2_bonuspanel.png)
