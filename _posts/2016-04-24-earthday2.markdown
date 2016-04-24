@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: earthday2.png
+title: Earth Day 2
+alt: Earth Day 2
+keywords: [earth, day, sun, sunday, space]
+---
+
+Burn!
