@@ -7,3 +7,7 @@ keywords: [when life gives you lemons, lemonade, sugar, teeth]
 ---
 
 Life. Oh life. Oooh liiiife. Oh life. Doo doot doot dooo.
+
+Bonus Panel:
+
+![Make Lemonade Bonus Panel](/images/makelemonade_bonus.png)
