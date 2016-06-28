@@ -3,13 +3,13 @@ layout: post
 title: Portfolio
 ---
 
-<div markdown="1" class="img-block">
-[![youdontsurf GIFs](yds_thumb.png)](http://imgur.com/a/dE7oy)
-
 'youdontsurf' is taking stock material and adding some text. I've made a few GIFs which a lot of people loved. But see for yourself!
-</div>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/dE7oy"><a href="//imgur.com/a/dE7oy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+I recently started to draw silly faces on scary things. There's more to come!
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zlKRO"><a href="//imgur.com/a/zlKRO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <div markdown="1" class="img-block">
 [![Photoshopped Things](photoshop_thumb.png)](http://imgur.com/a/uIBTC)
