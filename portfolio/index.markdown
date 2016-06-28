@@ -3,7 +3,7 @@ layout: post
 title: Things I Make
 ---
 
-I don't only draw comics. I like to try and learn new things
+I don't only draw comics. I like to try new things to find more ways to create funny or interesting content. You can see the results below! Have fun!
 
 ## youdontsurf Things
 
