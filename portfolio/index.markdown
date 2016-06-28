@@ -2,6 +2,17 @@
 layout: post
 title: Portfolio
 ---
+<div markdown="1" class="img-block">
+[![youdontsurf GIFs](yds_thumb.png)](http://imgur.com/a/dE7oy)
+
+'youdontsurf' is taking stock material and adding some text. I've made a few GIFs which a lot of people loved. But see for yourself!
+</div>
+
+<div markdown="1" class="img-block">
+[![Photoshopped things](photoshop_thumb.png)](http://imgur.com/a/uIBTC)
+
+I photoshopped a few things and made some bad puns. A couple of them only make sense in German but feel free to take a look!
+</div>
 
 <div markdown="1" class="img-block">
 [![BUND brochure](bundj.png)](http://www.ausgeco2hlt.de/wp-content/uploads/2013/07/Raus_aus_der_Kohle_web.pdf)
