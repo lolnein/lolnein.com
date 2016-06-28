@@ -20,18 +20,18 @@ I recently started to draw silly faces on scary things. There's more to come!
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zlKRO"><a href="//imgur.com/a/zlKRO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
+## Animated Things
+
+Some of my comics already have moving characters. But my LOLNEIN-nimations move even more! With sound! Amazing! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUyok4uA_rcX6NDhZ1eMwFnz7hoDAB3-8" frameborder="0" allowfullscreen></iframe>
+
+
 ## Photoshopped Things
 
 I photoshopped a few things and made some bad puns. A couple of them only make sense in German, though. Take a look:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/uIBTC"><a href="//imgur.com/a/uIBTC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
-## Animated Things
-
-Some of my comics have animated panels. My LOLNEIN-nimations move even more. With sound! Amazing! 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUyok4uA_rcX6NDhZ1eMwFnz7hoDAB3-8" frameborder="0" allowfullscreen></iframe>
 
 
 ## Music Things
