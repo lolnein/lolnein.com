@@ -3,7 +3,8 @@ layout: post
 title: Things I Make
 ---
 
-I don't only draw comics. I like to try new things to find more ways to create funny or interesting content. You can see the results below! Have fun!
+I don't only draw comics. I also like to try new things to find more ways to create funny and interesting content. You can see the results below. Have fun!
+
 
 ## youdontsurf Things
 
@@ -11,17 +12,36 @@ This 'youdontsurf' thing is basically taking stock material and adding some text
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/dE7oy"><a href="//imgur.com/a/dE7oy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+
 ## Horror Doodle Things
 
 I recently started to draw silly faces on scary things. There's more to come!
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zlKRO"><a href="//imgur.com/a/zlKRO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+
 ## Photoshopped Things
 
 I photoshopped a few things and made some bad puns. A couple of them only make sense in German, though. Take a look:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/uIBTC"><a href="//imgur.com/a/uIBTC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+## Animated Things
+
+Some of my comics have animated panels. My LOLNEIN-nimations move even more. With sound! Amazing! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUyok4uA_rcX6NDhZ1eMwFnz7hoDAB3-8" frameborder="0" allowfullscreen></iframe>
+
+
+## Music Things
+
+Nothing too serious. But maybe somewehere someone enjoys it.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258762324&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236030459&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190147070&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190068739&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 ## Other Things
