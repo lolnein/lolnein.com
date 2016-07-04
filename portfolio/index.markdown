@@ -3,12 +3,12 @@ layout: post
 title: Things I Make
 ---
 
-I don't only draw comics. I also like to try new things to find more ways to create funny and interesting content. You can see the results below. Have fun!
+I don't only draw [comics](http://lolnein.com). I also like to try new things to find more ways to create funny and interesting content. You can see the results below. Have fun!
 
 
 ## youdontsurf Things
 
-This 'youdontsurf' thing is basically taking stock material and adding some text. I've made a few GIFs which a lot of people on the internet loved. But see for yourself:
+This 'youdontsurf' thing is basically taking stock material and adding some text. I've made a few GIFs so far:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/dE7oy"><a href="//imgur.com/a/dE7oy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
