@@ -1,0 +1,8 @@
+---
+layout: comic
+comic: topmodel.gif
+title: Top Model
+alt: Top Model
+keywords: [top, model, btg, behind, the, gif, runway]
+---
+
