@@ -1,0 +1,8 @@
+---
+layout: comic
+comic: thesigns.gif
+title: The Signs
+alt: The Signs
+keywords: [signs, dashcam, accident, pedestrian, car, street]
+---
+
