@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: recipe.gif
+title: The Recipe
+alt: The Recipe
+keywords: [youdontsurf, recipe, surgery, cheese, doctors]
+---
