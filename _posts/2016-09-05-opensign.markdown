@@ -2,6 +2,6 @@
 layout: comic
 comic: opensign.gif
 title: The Open Sign
-alt: Airpods vs Earbuds
+alt: The Open Sign
 keywords: [youdontsurf, open, sign]
 ---
