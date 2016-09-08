@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: opensign.gif
+title: The Open Sign
+alt: Airpods vs Earbuds
+keywords: [youdontsurf, open, sign]
+---
