@@ -6,7 +6,7 @@ alt: Galaxy Note 7 vs Flip Phone
 keywords: [galaxy, note, 7, assmung, flip, phone, smartphone]
 ---
 
-[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/) (or completely animated and with sound: https://youtu.be/JtQsyorF4WA)
+[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/) (or [completely animated and with sound!](https://youtu.be/JtQsyorF4WA))
 
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
