@@ -6,6 +6,8 @@ alt: Smartphone vs Nokia
 keywords: [smartphone, nokia, flip, phone]
 ---
 
+Thanks to whoever made this (http://i.imgur.com/oInTYt6.gifv) for the idea!
+
 ![Smartphone vs Nokia Bonus Panel](/images/smartphonevsnokia_bonus.gif)
 
 Similar Comics:
