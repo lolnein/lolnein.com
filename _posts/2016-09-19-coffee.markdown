@@ -1,9 +1,8 @@
 ---
 layout: comic
-comic:
+comic: coffee.gif
 title: The Coffee
-alt:
+alt: The Coffee
 keywords: [irish, coffee, students, youdontsurf]
 ---
 
-<a href="http://imgur.com/ht62Tzq"><img src="http://i.imgur.com/ht62Tzq.gif" title="source: imgur.com" /></a>
