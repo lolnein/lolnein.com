@@ -2,8 +2,8 @@
 layout: comic
 comic:
 title: The Coffee
-alt: The Coffee
+alt:
 keywords: [irish, coffee, students, youdontsurf]
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="ht62Tzq"><a href="//imgur.com/ht62Tzq">The Coffee (OC)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="http://imgur.com/ht62Tzq"><img src="http://i.imgur.com/ht62Tzq.gif" title="source: imgur.com" /></a>
