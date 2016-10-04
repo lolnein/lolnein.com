@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: luggage.gif
+title: The Luggage
+alt: The Luggage
+keywords: [luggage, dog, belt, youdontsurf]
+---
