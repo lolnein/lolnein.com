@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: screen.gif
+title: The Screen
+alt: The Screen
+keywords: [screen, touchscreen, office, youdontsurf, equipment, repair]
+---
