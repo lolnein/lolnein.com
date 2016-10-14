@@ -1,0 +1,7 @@
+---
+layout: comic
+comic: airplane.gif
+title: The Airplane
+alt: The Airplane
+keywords: [airplane, wheelchair, youdontsurf]
+---
