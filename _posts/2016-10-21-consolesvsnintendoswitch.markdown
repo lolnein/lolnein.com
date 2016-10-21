@@ -1,8 +1,8 @@
 ---
 layout: comic
-comic: consolesvsnintendoswitch.gif
-title: Consoles vs Nintendo Switch
-alt: Consoles vs Nintendo Switch
+comic: ps4vsnintendoswitch.gif
+title: PS4 vs Nintendo Switch
+alt: PS4 vs Nintendo Switch
 keywords: [nintendo, switch, consoles, ps4, sony]
 ---
 
