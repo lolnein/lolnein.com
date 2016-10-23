@@ -1,0 +1,34 @@
+---
+layout: comic
+comic: cleanscreen.gif
+title: The Clean Screen
+alt: The Clean Screen
+keywords: [clean, screen, police]
+---
+
+My other youdontsurf posts:
+
+[The Clean Screen](http://lolnein.com/2016/10/22/cleanscreen/)
+
+[The Screen](http://lolnein.com/2016/10/14/screen/)
+
+[The Contractions](http://lolnein.com/2016/09/28/contractions/)
+
+[The Coffee](http://lolnein.com/2016/09/19/coffee/)
+
+[The Investigation](http://lolnein.com/2016/09/09/investigation/)
+
+[The Open Sign](http://lolnein.com/2016/09/05/opensign/)
+
+[The Computer Expert](http://lolnein.com/2016/07/27/computerexpert/)
+
+[The Recipe](http://lolnein.com/2016/07/08/recipe/)
+
+[The Big Belly](http://lolnein.com/2016/05/09/bigbelly/)
+
+[The Beige Suits](http://lolnein.com/2016/05/03/beigesuits/)
+
+[The Luggage](http://lolnein.com/2015/11/12/luggage/)
+
+[The Airplane](http://lolnein.com/2015/11/09/airplane/)
+
