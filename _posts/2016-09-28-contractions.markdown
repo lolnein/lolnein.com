@@ -28,6 +28,8 @@ My other Stock Video Stories:
 
 [The Beige Suits](http://lolnein.com/2016/05/03/beigesuits/)
 
+[The Genius](http://lolnein.com/2016/02/04/genius)
+
 [The Tablet](http://lolnein.com/2016/02/01/tablet)
 
 [The Luggage](http://lolnein.com/2015/11/12/luggage/)
