@@ -6,7 +6,7 @@ alt: The Clean Screen
 keywords: [clean, screen, police]
 ---
 
-My other youdontsurf posts:
+My other Stock Video Stories:
 
 [The Clean Screen](http://lolnein.com/2016/10/22/cleanscreen/)
 
@@ -28,7 +28,8 @@ My other youdontsurf posts:
 
 [The Beige Suits](http://lolnein.com/2016/05/03/beigesuits/)
 
+[The Tablet](http://lolnein.com/2016/02/01/tablet)
+
 [The Luggage](http://lolnein.com/2015/11/12/luggage/)
 
 [The Airplane](http://lolnein.com/2015/11/09/airplane/)
-
