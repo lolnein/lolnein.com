@@ -8,6 +8,8 @@ keywords: [clean, screen, police]
 
 My other Stock Video Stories:
 
+[The Machine](http://lolnein.com/2016/11/01/machine)
+
 [The Clean Screen](http://lolnein.com/2016/10/22/cleanscreen/)
 
 [The Screen](http://lolnein.com/2016/10/14/screen/)
@@ -27,6 +29,8 @@ My other Stock Video Stories:
 [The Big Belly](http://lolnein.com/2016/05/09/bigbelly/)
 
 [The Beige Suits](http://lolnein.com/2016/05/03/beigesuits/)
+
+[The Job Interview](http://lolnein.com/2016/04/27/jobinterview/)
 
 [The Tablet](http://lolnein.com/2016/02/01/tablet)
 
