@@ -8,8 +8,6 @@ keywords: [clean, screen, police]
 
 My other Stock Video Stories:
 
-[The Machine](http://lolnein.com/2016/11/01/machine)
-
 [The Clean Screen](http://lolnein.com/2016/10/22/cleanscreen/)
 
 [The Screen](http://lolnein.com/2016/10/14/screen/)
