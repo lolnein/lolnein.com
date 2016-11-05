@@ -1,6 +1,6 @@
 ---
 layout: youtube
-video: https://www.youtube.com/watch?v=5TEnil1oPFY
+video: https://www.youtube.com/embed/5TEnil1oPFY
 title: Stock Video Stories with Sound
 ---
 
