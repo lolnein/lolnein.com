@@ -6,7 +6,9 @@ alt: The Clean Screen
 keywords: [clean, screen, police]
 ---
 
-My other Stock Video Stories:
+More Stock Video Stories:
+
+[The Morning Coffee](http://lolnein.com/2016/11/11/morningcoffee/)
 
 [The Clean Screen](http://lolnein.com/2016/10/22/cleanscreen/)
 
@@ -24,13 +26,17 @@ My other Stock Video Stories:
 
 [The Recipe](http://lolnein.com/2016/07/08/recipe/)
 
+[The Great Success](http://lolnein.com/2016/07/01/greatsuccess/)
+
 [The Big Belly](http://lolnein.com/2016/05/09/bigbelly/)
 
 [The Beige Suits](http://lolnein.com/2016/05/03/beigesuits/)
 
 [The Job Interview](http://lolnein.com/2016/04/27/jobinterview/)
 
-[The Tablet](http://lolnein.com/2016/02/01/tablet)
+[The Genius](http://lolnein.com/2016/02/04/genius/)
+
+[The Tablet](http://lolnein.com/2016/02/01/tablet/)
 
 [The Luggage](http://lolnein.com/2015/11/12/luggage/)
 

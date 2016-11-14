@@ -1,9 +1,9 @@
 ---
 layout: comic
-comic: greatsuccess.gif
-title: The Great Success
-alt: The Great Success
-keywords: [youdontsurf, acrobat, reader, clap, updated]
+comic: morningcoffee.gif
+title: The Morning Coffee
+alt: The Morning Coffee
+keywords: [morning, coffee]
 ---
 
 More Stock Video Stories:
