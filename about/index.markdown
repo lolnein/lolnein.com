@@ -13,8 +13,8 @@ Responsible for the content of this site:
 
 Vincent Kunert
 
-Kubornstr. 42\\
-10367 Berlin\\
+Gürtelstr. 35\\
+10247 Berlin\\
 Germany
 
 vin *at* lolnein.com
