@@ -1,0 +1,9 @@
+---
+layout: comic
+comic: nintendontgivein.gif
+title: Nintendon't Give In
+alt: Nintendon't Give In
+keywords: [nintendo, switch, zelda, breath, of, the, wild, bbc, self-control]
+---
+
+God, I really want the Switch ...
