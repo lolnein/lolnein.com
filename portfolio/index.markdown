@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Things I Make
+title: Portfolio
 ---
 
-I don't only draw [comics](http://lolnein.com). I also like to try new things to find more ways to create funny and interesting content. You can see the results below. Have fun!
+I don't only draw [comics](http://lolnein.com). I also like to try new things to find more ways to create funny and interesting content. You can see the results below!
 
 
-## youdontsurf Things
+## Stock Video Stories
 
-This 'youdontsurf' thing is basically taking stock material and adding some text. I've made a few GIFs so far:
+I take stock videos and add some text. They even have their own [Facebook page](https://www.facebook.com/StockVideoStories/)!
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/dE7oy"><a href="//imgur.com/a/dE7oy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
-## Horror Doodle Things
+## Real Life Doodles
 
-I recently started to draw silly faces on scary things. There's more to come!
+I take a GIF or a video and add little animations.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zlKRO"><a href="//imgur.com/a/zlKRO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
-## Animated Things
+## Animations
 
 Some of my comics already have moving characters. But my LOLNEIN-nimations move even more! With sound! Amazing! 
 
@@ -34,11 +34,8 @@ I photoshopped a few things and made some bad puns. A couple of them only make s
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/uIBTC"><a href="//imgur.com/a/uIBTC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
-## Music Things
+## Music
 
-Nothing too serious. But maybe somewehere someone enjoys it.
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258762324&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236030459&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190147070&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190068739&amp;color=000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -56,10 +53,4 @@ Nothing too serious. But maybe somewehere someone enjoys it.
 [![nyantec Logo](nyantec.svg)](https://nyantec.com/)
 
 2012 – Logo for nyantec IT consulting company
-</div>
-
-<div markdown="1" class="img-block">
-[![tersee Logo](tersee.svg)](http://tersee.com/)
-
-2012 – Logo for tersee real‐time news search engine
 </div>
