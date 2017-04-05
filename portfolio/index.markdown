@@ -10,14 +10,14 @@ I don't only draw [comics](http://lolnein.com). I also like to try new things to
 
 I take stock videos and add some text. They even have their own [Facebook page](https://www.facebook.com/StockVideoStories/)!
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/dE7oy"><a href="//imgur.com/a/dE7oy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0dVPS"><a href="//imgur.com/0dVPS">Stock Video Stories</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Real Life Doodles
 
 I take a GIF or a video and add little animations.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/zlKRO"><a href="//imgur.com/a/zlKRO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZdiYZ"><a href="//imgur.com/ZdiYZ">Real Life Doodles</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Animations
