@@ -6,39 +6,40 @@ title: Portfolio
 I don't only draw [comics](http://lolnein.com). I also like to try new things to find more ways to create funny and interesting content. You can see the results below!
 
 
-## Animated Comics
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/f1zIM"><a href="//imgur.com/f1zIM">LOLNEIN Animated Comics</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
-## Stock Video Stories
+##
 
 I take stock videos and add some text. They even have their own [Facebook page](https://www.facebook.com/StockVideoStories/)!
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/0dVPS"><a href="//imgur.com/0dVPS">Stock Video Stories</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+They're also available [in German](https://www.facebook.com/StockVideoStoriesDE/)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0dVPS"><a href="//imgur.com/0dVPS">Stock Video Stories by LOLNEIN</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
+##
 
-## Behind the GIF
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/i2OTS"><a href="//imgur.com/i2OTS">Behind the GIF</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/f1zIM"><a href="//imgur.com/f1zIM">Animated Comics by LOLNEIN</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
-## Real Life Doodles
+##
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/i2OTS"><a href="//imgur.com/i2OTS">&quot;Behind the GIF&quot; comics by LOLNEIN</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+##
 
 I take a GIF or a video and add little animations.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZdiYZ"><a href="//imgur.com/ZdiYZ">Real Life Doodles</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZdiYZ"><a href="//imgur.com/ZdiYZ">Real Life Doodles by LOLNEIN</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
-## Animations
+##
 
 Some of my comics already have moving characters. But my LOLNEIN-nimations move even more! With sound! Amazing! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUyok4uA_rcX6NDhZ1eMwFnz7hoDAB3-8" frameborder="0" allowfullscreen></iframe>
 
 
-## Photoshopped Things
+##
 
 I photoshopped a few things and made some bad puns. A couple of them only make sense in German, though. Take a look:
 
