@@ -6,11 +6,22 @@ title: Portfolio
 I don't only draw [comics](http://lolnein.com). I also like to try new things to find more ways to create funny and interesting content. You can see the results below!
 
 
+## Animated Comics
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/f1zIM"><a href="//imgur.com/f1zIM">LOLNEIN Animated Comics</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
 ## Stock Video Stories
 
 I take stock videos and add some text. They even have their own [Facebook page](https://www.facebook.com/StockVideoStories/)!
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/0dVPS"><a href="//imgur.com/0dVPS">Stock Video Stories</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+
+## Behind the GIF
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/i2OTS"><a href="//imgur.com/i2OTS">Behind the GIF</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Real Life Doodles
