@@ -1,7 +1,0 @@
----
-layout: comic
-comic: humour.png
-title: Humour
----
-
-It has become a humonster.
