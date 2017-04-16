@@ -1,11 +1,7 @@
 ---
 layout: comic
-comic: beforemycoffee.png
-title: Before My Coffee
-alt: Before My Coffee
-keywords: [coffee, beer, alcohol, morning, office]
+comic: easteregg.png
+title: Easter Egg
+alt: Easter Egg
+keywords: [easter, egg, cell, uterus, sperm]
 ---
-
-Bonus Panel:
-
-![Before My Coffee Bonus Panel](/images/beforemycoffee_bonus.png)
