@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: sunny.png
+title: Sunny
+alt: Sunny
+keywords: [sunny,sun, cloud, memory, snow, rain]
+---
+
+Bonus Panel:
+
+![Sunny Bonus Panel](/images/sunny_bonus.png)
