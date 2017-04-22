@@ -6,4 +6,8 @@ alt: Earth Day
 keywords: [earth, day]
 ---
 
-That balloon will take an awfully long time to decompose.
+Bonus Panel:
+
+![Earth Day Bonus Panel](/images/earthday_bonus.png)
+
+[Here](/images/earthday_old.png) is the old version of this comic.
