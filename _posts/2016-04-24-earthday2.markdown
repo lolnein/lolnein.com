@@ -11,3 +11,5 @@ Burn!
 Bonus Panel:
 
 ![Earth Day 2 Bonus Panel](/images/earthday2_bonuspanel.png)
+
+You can find the old version [here](/images/earthday2_old.png).
