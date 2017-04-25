@@ -12,4 +12,4 @@ Bonus Panel:
 
 Bonus Panel 2:
 
-![Paper Towel Bonus Panel 2](/images/papertowel2_bonus.png)
+![Paper Towel Bonus Panel 2](/images/papertowel_bonus2.png)
