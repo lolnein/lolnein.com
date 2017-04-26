@@ -17,8 +17,6 @@ Gürtelstr. 35\\
 10247 Berlin\\
 Germany
 
-lolnein *dot* com *at* gmail *dot* com
-
 ![Email Address](/images/emailaddress.png)
 
 Generously hosted by [nyantec](https://nyantec.com/).
