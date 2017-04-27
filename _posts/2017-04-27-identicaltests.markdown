@@ -6,3 +6,6 @@ alt: Identical Tests
 keywords: [tests, copier, class]
 ---
 
+Bonus Panel:
+
+![Identical Tests Bonus Panel](/images/identicaltests_bonus.png)
