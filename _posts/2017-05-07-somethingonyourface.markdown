@@ -8,4 +8,4 @@ keywords: [mirrors, faces, reflection, face]
 
 Bonus Panel:
 
-![Something on Your Face](/images/somethingonyourface_bonus.png)
+![Something on Your Face Bonus Panel](/images/somethingonyourface_bonus.png)

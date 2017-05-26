@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: vacation.png
+title: Vacation
+alt: Vacation
+keywords: [vacation, sun, rain]
+---
+
+Bonus Panel:
+
+![Vacation Bonus Panel](/images/vacation_bonus.png)
