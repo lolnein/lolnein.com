@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: backrub.png
+title: Back Rub
+alt: Back Rub
+keywords: [back, rub, fly, hand]
+---
+
+Bonus Panel:
+
+![Back Rub Bonus Panel](/images/backrub_bonus.png)
