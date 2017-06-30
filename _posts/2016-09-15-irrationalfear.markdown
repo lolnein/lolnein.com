@@ -8,8 +8,8 @@ keywords: [behind, the, gif, btg, irrational, fear, kicked, face]
 
 Other 'Behind the GIF' comics:
 
-[The Signs](http://lolnein.com/2016/07/20/thesigns/)
+[The Signs](https://lolnein.com/2016/07/20/thesigns/)
 
-[Top Model](http://lolnein.com/2016/07/06/topmodel/)
+[Top Model](https://lolnein.com/2016/07/06/topmodel/)
 
-[Selfie Lover](http://lolnein.com/2016/06/17/selfielover/)
+[Selfie Lover](https://lolnein.com/2016/06/17/selfielover/)

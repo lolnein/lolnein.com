@@ -8,12 +8,12 @@ keywords: [angry, bird, secretary, arms, snake]
 
 My other Real Life Doodles:
 
-[Hungry Hippo](http://lolnein.com/2017/03/10/hungryhippo/)
+[Hungry Hippo](https://lolnein.com/2017/03/10/hungryhippo/)
 
-[Skater Bin](http://lolnein.com/2017/01/25/skaterbin/)
+[Skater Bin](https://lolnein.com/2017/01/25/skaterbin/)
 
-[Bubble Buddy](http://lolnein.com/2016/11/14/bubblebuddy/)
+[Bubble Buddy](https://lolnein.com/2016/11/14/bubblebuddy/)
 
-[Self-control](http://lolnein.com/2016/09/26/selfcontrol/)
+[Self-control](https://lolnein.com/2016/09/26/selfcontrol/)
 
-[Angry Bird](http://lolnein.com/2016/07/15/angrybird/)
+[Angry Bird](https://lolnein.com/2016/07/15/angrybird/)

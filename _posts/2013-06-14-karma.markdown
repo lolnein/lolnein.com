@@ -5,7 +5,7 @@ title: Karma
 ---
 
 I changed the punchline because I like this one better.
-You can see the old one [here](http://lolnein.com/comics/karmafirstversion.png).
+You can see the old one [here](https://lolnein.com/comics/karmafirstversion.png).
 
 This post is an entry for the German comic blog "Schlogger".
 This month's topic was "Karma".

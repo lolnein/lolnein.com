@@ -8,4 +8,4 @@ keywords: [what is love, floppy disks, gif]
 
 I've turned it into a video with music played by FLOPPY DISK DRIVES! HOW COOL IS THAT? <https://youtu.be/LGNqukY7Hdk>
 
-Referring to this comic: [CD vd Floppy Disk](http://lolnein.com/2015/05/11/cdvsfloppydisk/)
+Referring to this comic: [CD vd Floppy Disk](https://lolnein.com/2015/05/11/cdvsfloppydisk/)

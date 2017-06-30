@@ -17,8 +17,8 @@
 
 	<icon>/lolnein.png</icon>
 
-	<link rel="self" href="http://lolnein.com/feed/"/>
-	<link rel="alternate" href="http://lolnein.com/"/>
+	<link rel="self" href="https://lolnein.com/feed/"/>
+	<link rel="alternate" href="https://lolnein.com/"/>
 
 	<link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc-sa/3.0/rdf"/>
 	<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
@@ -26,13 +26,13 @@
 	<entry xml:lang="en-GB-oed">
 		<title>{{ post.title | xml_escape }}</title>
 		<id>urn:x-lolnein:{{ post.id | replace:'/','%2F' | xml_escape }}</id>
-		<link rel="alternate" href="http://lolnein.com{{ post.url }}/"/>
+		<link rel="alternate" href="https://lolnein.com{{ post.url }}/"/>
 		<published>{{ post.date | date: "%Y-%m-%dT00:00:00Z" }}</published>
 		<updated>{% if post.update %}{{ post.update | xml_escape }}{% else %}{{ post.date | date: "%Y-%m-%dT00:00:00Z" }}{% endif %}</updated>
 
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
-				{% if page.layout == 'youtube' %}<iframe width="560" height="315" src="{{ post.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img src="http://lolnein.com/comics/{{ post.comic }}"/>{% endif %}
+				{% if page.layout == 'youtube' %}<iframe width="560" height="315" src="{{ post.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>{% else %}<img src="https://lolnein.com/comics/{{ post.comic }}"/>{% endif %}
 				{{ post.content }}
 			</div>
 		</content>
