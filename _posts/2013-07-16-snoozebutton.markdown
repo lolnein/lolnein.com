@@ -9,4 +9,4 @@ keywords: [alarm, snooze button, murder]
 Worth it.
 
 Edit: I have added another panel. 
-Old version can be seen [here](http://lolnein.com/comics/snoozebuttonold.png).
+Old version can be seen [here](https://lolnein.com/comics/snoozebuttonold.png).

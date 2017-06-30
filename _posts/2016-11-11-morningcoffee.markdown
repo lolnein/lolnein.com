@@ -8,36 +8,36 @@ keywords: [morning, coffee]
 
 More Stock Video Stories:
 
-[The Morning Coffee](http://lolnein.com/2016/11/11/morningcoffee/)
+[The Morning Coffee](https://lolnein.com/2016/11/11/morningcoffee/)
 
-[The Clean Screen](http://lolnein.com/2016/10/22/cleanscreen/)
+[The Clean Screen](https://lolnein.com/2016/10/22/cleanscreen/)
 
-[The Screen](http://lolnein.com/2016/10/14/screen/)
+[The Screen](https://lolnein.com/2016/10/14/screen/)
 
-[The Contractions](http://lolnein.com/2016/09/28/contractions/)
+[The Contractions](https://lolnein.com/2016/09/28/contractions/)
 
-[The Coffee](http://lolnein.com/2016/09/19/coffee/)
+[The Coffee](https://lolnein.com/2016/09/19/coffee/)
 
-[The Investigation](http://lolnein.com/2016/09/09/investigation/)
+[The Investigation](https://lolnein.com/2016/09/09/investigation/)
 
-[The Open Sign](http://lolnein.com/2016/09/05/opensign/)
+[The Open Sign](https://lolnein.com/2016/09/05/opensign/)
 
-[The Computer Expert](http://lolnein.com/2016/07/27/computerexpert/)
+[The Computer Expert](https://lolnein.com/2016/07/27/computerexpert/)
 
-[The Recipe](http://lolnein.com/2016/07/08/recipe/)
+[The Recipe](https://lolnein.com/2016/07/08/recipe/)
 
-[The Great Success](http://lolnein.com/2016/07/01/greatsuccess/)
+[The Great Success](https://lolnein.com/2016/07/01/greatsuccess/)
 
-[The Big Belly](http://lolnein.com/2016/05/09/bigbelly/)
+[The Big Belly](https://lolnein.com/2016/05/09/bigbelly/)
 
-[The Beige Suits](http://lolnein.com/2016/05/03/beigesuits/)
+[The Beige Suits](https://lolnein.com/2016/05/03/beigesuits/)
 
-[The Job Interview](http://lolnein.com/2016/04/27/jobinterview/)
+[The Job Interview](https://lolnein.com/2016/04/27/jobinterview/)
 
-[The Genius](http://lolnein.com/2016/02/04/genius/)
+[The Genius](https://lolnein.com/2016/02/04/genius/)
 
-[The Tablet](http://lolnein.com/2016/02/01/tablet/)
+[The Tablet](https://lolnein.com/2016/02/01/tablet/)
 
-[The Luggage](http://lolnein.com/2015/11/12/luggage/)
+[The Luggage](https://lolnein.com/2015/11/12/luggage/)
 
-[The Airplane](http://lolnein.com/2015/11/09/airplane/)
+[The Airplane](https://lolnein.com/2015/11/09/airplane/)

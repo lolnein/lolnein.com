@@ -6,4 +6,4 @@ alt: Wow, people look like ants from up here.
 keywords: [ants, balloon, people]
 ---
 
-[Part 1](http://lolnein.com/2013/05/28/fromuphere/)
+[Part 1](https://lolnein.com/2013/05/28/fromuphere/)
