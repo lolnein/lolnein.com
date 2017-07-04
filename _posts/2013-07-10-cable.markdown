@@ -2,7 +2,25 @@
 layout: comic
 comic: cable.png
 title: Cable
-alt: Ooh, a cable!
-keywords: [office chair, cable, rage]
+alt: Cable
+keywords: [office, chair, cable, rage, headphones, goddammit]
 ---
 
+Bonus Panel: 
+
+![Cable Bonus Panel](/images/cable_bonus.png)
+
+
+Animated Version:
+
+![Cable GIF](/images/cable.gif)
+
+
+Animated Version (with sound!):
+
+https://youtu.be/51-txWcXHtU
+
+
+Old Version:
+
+![Cable Old Version](/images/cable_old.png)
