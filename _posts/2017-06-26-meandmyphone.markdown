@@ -6,6 +6,6 @@ alt: Me and My Phone
 keywords: [phone, smartphone]
 ---
 
-Bonus Panel: 
+Bonus Panel:
 
 ![Me and My Phone Bonus Panel](/images/meandmyphone_bonus.png)
