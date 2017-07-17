@@ -13,5 +13,3 @@ Bonus Comic:
 Wholesome Version:
 
 ![Bottom Plate Bonus 2](/images/bottomplate_bonus2.png)
-
-test
