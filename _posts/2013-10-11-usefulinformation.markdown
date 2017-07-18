@@ -3,7 +3,13 @@ layout: comic
 comic: usefulinformation.gif
 title: Useful Information
 alt: Useful Information
-keywords: [information, brain]
+keywords: [useful, information, brain, fun, facts]
 ---
 
-Who needs useful information when you can have fun facts!
+Bonus Panel:
+
+![Useful Information Bonus](/images/usefulinformation_bonus.gif)
+
+Old Version:
+
+![Useful Information Old](/images/usefulinformation_old.gif)
