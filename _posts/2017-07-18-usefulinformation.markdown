@@ -19,3 +19,5 @@ Bonus Panels:
 Old Version:
 
 ![Useful Information Old](/images/usefulinformation_old.gif)
+
+You can also find me on reddit: https://www.reddit.com/user/lolnein/
