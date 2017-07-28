@@ -8,4 +8,4 @@ keywords: [drinking, straw, dance, dancing, club, beat, glass, mouth]
 
 Bonus Comic:
 
-![Drinking Straw Bonus](/images/drinkingstraw_bonus.gif)
+![Drinking Straw Bonus](/images/drinkingstraw_bonus.png)
