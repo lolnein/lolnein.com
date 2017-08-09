@@ -1,3 +1,2 @@
-destination: /srv/www/lolnein/
 markdown: kramdown
 permalink: /:year/:month/:day/:title/

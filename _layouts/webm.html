@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% include head.html %}
+
+<video property="og:image" class="center" autoplay loop>
+  <source src="/comics/{{ page.comic }}.mp4" type="video/mp4" />
+  <source src="/comics/{{ page.comic }}.webm" type="video/webm" />
+  Your browser does not support the video tag.
+</video>
+
+
+{% include tail.html %}
