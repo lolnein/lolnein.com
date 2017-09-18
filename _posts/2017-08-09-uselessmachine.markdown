@@ -13,4 +13,4 @@ Bonus GIF:
   Your browser does not support the video tag.
 </video>
 
-Original video: https://youtu.be/Nqk_nWAjBus
+<a href="https://youtu.be/Nqk_nWAjBus">Original Video</a>
