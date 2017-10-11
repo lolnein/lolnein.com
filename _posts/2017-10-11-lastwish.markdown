@@ -1,0 +1,12 @@
+---
+layout: comic
+comic: lastwish.png
+title: Last Wish
+alt: Last Wish
+keywords: [last, wish, lamp, genie, read minds, face]
+---
+
+Bonus Panel:
+
+![Last Wish Bonus Panel](/images/lastwish_bonus.png)
+
