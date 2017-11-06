@@ -1,0 +1,12 @@
+---
+layout: comic
+comic: mixup.png
+title: Mix-Up
+alt: Mix-Up
+keywords: [mix-up, elevator, stairs, staircase, flight, ]
+---
+
+Bonus Panel:
+
+![Mix-Up Bonus Panel](/images/mixup_bonus.png)
+
